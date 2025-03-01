@@ -26,16 +26,33 @@ if uploaded_file is not None:
     result = subprocess.run(["python", "process_image_practice.py", input_path, output_path], capture_output=True, text=True)
 
     # Display the image
+    st.markdown("## Original Image")
     st.image(image, caption="Uploaded Image", use_container_width=True)
 
-   # Display the grayscale image
-    if os.path.exists(output_path):
-        grayscale_image = Image.open(output_path)
-        st.image(grayscale_image, caption="Grayscale Image", use_container_width=True)
+
+    st.markdown("----------------------")
 
     # Display the output string
     output_text = result.stdout.strip()
-    st.write(f"**{output_text}**")
+    if output_text != "Healthy":
+        st.markdown("## Corn appears to be infected with")
+        st.markdown(f"## **{output_text}**")    
+        st.markdown("----------------------")
+        st.markdown("## Predicted Desiese Hot Spots")
+        # Display the grayscale image
+
+        if os.path.exists(output_path):
+            grayscale_image = Image.open(output_path)
+            st.image(grayscale_image, caption="Grayscale Image", use_container_width=True)
+
+    else:
+        st.markdown("### Congratulations, your corn appears")
+        st.markdown(f"### **{output_text}**")
+        st.markdown("### 🌽 😄 🌽")
+
+
+
+
 
     # Cleanup temp files
     os.remove(input_path)

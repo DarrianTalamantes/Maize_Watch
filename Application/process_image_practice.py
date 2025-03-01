@@ -12,7 +12,7 @@ def process_image(input_path, output_path):
     grayscale_image.save(output_path)
 
     # Print "grayscale" (this will be captured by Streamlit)
-    print("grayscale")
+    print("Gray Leaf Spot")
 
 if __name__ == "__main__":
     input_image_path = sys.argv[1]  # Input image path from command line
