@@ -1,0 +1,3222 @@
+County Code,State Name,County Name,Common-Rust,Gray Leaf Spot,Blight
+001,Alabama,Autauga,2,6,8
+009,Alabama,Blount,1,10,10
+017,Alabama,Chambers,8,9,7
+021,Alabama,Chilton,1,10,6
+033,Alabama,Colbert,4,0,1
+045,Alabama,Dale,8,8,8
+051,Alabama,Elmore,6,9,2
+065,Alabama,Hale,10,2,10
+079,Alabama,Lawrence,9,1,7
+083,Alabama,Limestone,1,3,1
+099,Alabama,Monroe,0,1,3
+107,Alabama,Pickens,1,4,7
+121,Alabama,Talladega,10,7,3
+050,Alaska,Bethel,10,1,3
+105,Alaska,Hoonah-Angoon,4,7,8
+122,Alaska,Kenai Peninsula,2,5,1
+150,Alaska,Kodiak Island,8,1,5
+164,Alaska,Lake and Peninsula,7,2,4
+180,Alaska,Nome,1,6,7
+188,Alaska,Northwest Arctic,7,6,5
+198,Alaska,Prince of Wales-Hyder,2,8,7
+141,Arkansas,Van Buren,7,2,5
+145,Arkansas,White,3,2,10
+005,California,Amador,1,8,1
+021,California,Glenn,9,0,1
+033,California,Lake,6,5,3
+043,California,Mariposa,10,9,5
+055,California,Napa,3,4,10
+089,California,Shasta,0,7,0
+099,California,Stanislaus,9,4,6
+115,California,Yuba,3,3,10
+003,Colorado,Alamosa,10,5,3
+013,Colorado,Boulder,6,10,8
+014,Colorado,Broomfield,8,5,8
+025,Colorado,Crowley,1,2,7
+031,Colorado,Denver,9,5,3
+035,Colorado,Douglas,6,7,2
+047,Colorado,Gilpin,6,3,2
+083,Florida,Marion,1,7,5
+087,Florida,Monroe,5,4,6
+095,Florida,Orange,4,7,6
+111,Florida,St. Lucie,7,1,4
+119,Florida,Sumter,9,8,10
+125,Florida,Union,8,3,4
+001,Georgia,Appling,7,9,1
+013,Georgia,Barrow,5,3,5
+029,Georgia,Bryan,7,7,2
+043,Georgia,Candler,2,8,2
+055,Georgia,Chattooga,2,9,6
+059,Georgia,Clarke,7,0,0
+071,Georgia,Colquitt,0,8,2
+079,Georgia,Crawford,7,5,6
+091,Georgia,Dodge,6,4,6
+107,Georgia,Emanuel,5,5,4
+113,Georgia,Fayette,1,2,3
+123,Georgia,Gilmer,10,1,2
+053,Colorado,Hinsdale,3,6,10
+057,Colorado,Jackson,5,1,5
+059,Colorado,Jefferson,10,7,10
+073,Colorado,Lincoln,4,3,9
+083,Colorado,Montezuma,9,3,3
+095,Colorado,Phillips,4,7,0
+105,Colorado,Rio Grande,4,8,2
+111,Colorado,San Juan,1,1,4
+123,Colorado,Weld,6,1,3
+015,Connecticut,Windham,7,0,4
+001,Florida,Alachua,2,5,4
+013,Florida,Calhoun,9,0,4
+023,Florida,Columbia,10,6,4
+039,Florida,Gadsden,1,4,9
+055,Florida,Highlands,3,0,9
+059,Florida,Holmes,8,8,7
+073,Florida,Leon,3,9,3
+261,Alaska,Valdez-Cordova,0,7,6
+270,Alaska,Wade Hampton,9,8,3
+003,Arizona,Cochise,8,7,5
+013,Arizona,Maricopa,1,9,2
+001,Arkansas,Arkansas,7,5,1
+009,Arkansas,Boone,0,9,8
+019,Arkansas,Clark,9,0,8
+029,Arkansas,Conway,4,8,0
+043,Arkansas,Drew,4,0,2
+051,Arkansas,Garland,1,0,5
+061,Arkansas,Howard,6,5,3
+071,Arkansas,Johnson,2,8,8
+085,Arkansas,Lonoke,8,7,1
+097,Arkansas,Montgomery,1,5,9
+101,Arkansas,Newton,5,10,5
+111,Arkansas,Poinsett,0,6,0
+123,Arkansas,St. Francis,7,3,10
+129,Arkansas,Searcy,10,5,2
+309,Georgia,Wheeler,9,0,9
+313,Georgia,Whitfield,3,2,8
+319,Georgia,Wilkinson,7,5,6
+009,Hawaii,Maui,4,5,8
+015,Idaho,Boise,8,1,1
+021,Idaho,Boundary,7,7,4
+045,Idaho,Gem,9,2,1
+051,Idaho,Jefferson,0,5,9
+057,Idaho,Latah,3,3,4
+067,Idaho,Minidoka,9,7,9
+081,Idaho,Teton,6,9,7
+005,Illinois,Bond,9,0,9
+009,Illinois,Brown,1,4,7
+019,Illinois,Champaign,2,10,7
+029,Illinois,Coles,3,9,1
+035,Illinois,Cumberland,10,5,8
+049,Illinois,Effingham,9,5,7
+055,Illinois,Franklin,3,8,7
+065,Illinois,Hamilton,9,2,3
+051,Indiana,Gibson,6,10,10
+059,Indiana,Hancock,8,10,0
+069,Indiana,Huntington,9,6,9
+079,Indiana,Jennings,10,2,10
+085,Indiana,Kosciusko,8,6,3
+095,Indiana,Madison,6,8,1
+105,Indiana,Monroe,4,4,2
+115,Indiana,Ohio,4,0,3
+125,Indiana,Pike,4,2,6
+131,Indiana,Pulaski,2,2,6
+139,Indiana,Rush,8,6,5
+153,Indiana,Sullivan,4,8,1
+173,Indiana,Warrick,7,5,7
+179,Indiana,Wells,3,0,6
+183,Indiana,Whitley,8,5,1
+009,Iowa,Audubon,10,1,2
+017,Iowa,Bremer,4,6,10
+021,Iowa,Buena Vista,10,6,3
+031,Iowa,Cedar,8,3,7
+039,Iowa,Clarke,3,5,8
+073,Illinois,Henry,2,2,2
+077,Illinois,Jackson,0,2,7
+079,Illinois,Jasper,2,3,5
+089,Illinois,Kane,4,8,7
+103,Illinois,Lee,0,4,10
+107,Illinois,Logan,10,9,2
+121,Illinois,Marion,1,6,0
+129,Illinois,Menard,10,6,4
+139,Illinois,Moultrie,8,4,9
+145,Illinois,Perry,2,0,6
+155,Illinois,Putnam,7,1,7
+169,Illinois,Schuyler,6,4,8
+175,Illinois,Stark,5,0,2
+179,Illinois,Tazewell,7,6,6
+189,Illinois,Washington,8,5,0
+203,Illinois,Woodford,5,6,6
+009,Indiana,Blackford,4,10,10
+011,Indiana,Boone,0,7,4
+021,Indiana,Clay,4,1,10
+033,Indiana,DeKalb,5,3,2
+125,Georgia,Glascock,9,1,9
+129,Georgia,Gordon,2,5,10
+131,Georgia,Grady,8,2,0
+139,Georgia,Hall,0,9,1
+157,Georgia,Jackson,2,10,8
+169,Georgia,Jones,8,1,3
+175,Georgia,Laurens,6,7,2
+187,Georgia,Lumpkin,5,6,6
+197,Georgia,Marion,5,2,8
+201,Georgia,Miller,0,8,2
+217,Georgia,Newton,6,2,7
+225,Georgia,Peach,3,5,8
+233,Georgia,Polk,9,4,7
+243,Georgia,Randolph,2,9,1
+253,Georgia,Seminole,9,4,4
+265,Georgia,Taliaferro,9,1,6
+277,Georgia,Tift,0,9,7
+285,Georgia,Troup,1,8,6
+293,Georgia,Upson,3,0,9
+303,Georgia,Washington,3,7,7
+027,Kansas,Clay,9,1,4
+029,Kansas,Cloud,9,10,9
+039,Kansas,Decatur,1,4,6
+049,Kansas,Elk,3,5,6
+065,Kansas,Graham,3,10,2
+075,Kansas,Hamilton,3,8,0
+085,Kansas,Jackson,5,10,10
+095,Kansas,Kingman,7,8,10
+105,Kansas,Lincoln,8,9,3
+115,Kansas,Marion,8,8,9
+127,Kansas,Morris,10,4,3
+135,Kansas,Ness,9,5,1
+145,Kansas,Pawnee,8,8,5
+155,Kansas,Reno,8,6,0
+163,Kansas,Rooks,3,10,4
+173,Kansas,Sedgwick,4,0,9
+185,Kansas,Stafford,8,5,7
+195,Kansas,Trego,0,8,3
+203,Kansas,Wichita,7,9,8
+205,Kansas,Wilson,7,4,10
+183,Kentucky,Ohio,6,1,1
+187,Kentucky,Owen,9,4,9
+189,Kentucky,Owsley,0,6,8
+199,Kentucky,Pulaski,3,2,9
+209,Kentucky,Scott,5,5,7
+219,Kentucky,Todd,1,4,9
+229,Kentucky,Washington,8,0,9
+001,Louisiana,Acadia,5,4,10
+013,Louisiana,Bienville,7,3,3
+033,Louisiana,East Baton Rouge,7,6,10
+053,Louisiana,Jefferson Davis,1,5,6
+073,Louisiana,Ouachita,8,2,7
+077,Louisiana,Pointe Coupee,9,6,0
+089,Louisiana,St. Charles,5,4,9
+105,Louisiana,Tangipahoa,3,5,3
+115,Louisiana,Vernon,3,7,3
+003,Kentucky,Allen,5,2,9
+009,Kentucky,Barren,2,0,3
+017,Kentucky,Bourbon,5,7,1
+025,Kentucky,Breathitt,9,1,4
+031,Kentucky,Butler,3,10,0
+043,Kentucky,Carter,10,4,0
+053,Kentucky,Clinton,4,5,6
+063,Kentucky,Elliott,2,2,8
+077,Kentucky,Gallatin,7,7,9
+087,Kentucky,Green,0,3,1
+099,Kentucky,Hart,2,2,9
+103,Kentucky,Henry,10,9,2
+115,Kentucky,Johnson,1,5,10
+121,Kentucky,Knox,7,3,6
+137,Kentucky,Lincoln,3,1,7
+143,Kentucky,Lyon,9,9,10
+151,Kentucky,Madison,3,7,6
+157,Kentucky,Marshall,2,8,1
+169,Kentucky,Metcalfe,8,1,9
+175,Kentucky,Morgan,5,3,3
+045,Iowa,Clinton,8,5,3
+047,Iowa,Crawford,3,0,7
+055,Iowa,Delaware,1,6,6
+063,Iowa,Emmet,3,9,5
+067,Iowa,Floyd,1,3,7
+079,Iowa,Hamilton,8,1,4
+087,Iowa,Henry,2,5,7
+095,Iowa,Iowa,10,4,7
+105,Iowa,Jones,5,2,0
+113,Iowa,Linn,8,6,1
+121,Iowa,Madison,9,2,8
+125,Iowa,Marion,1,0,10
+137,Iowa,Montgomery,3,6,3
+141,Iowa,O'Brien,5,0,10
+151,Iowa,Pocahontas,9,10,2
+161,Iowa,Sac,2,0,9
+169,Iowa,Story,6,5,7
+175,Iowa,Union,4,0,0
+181,Iowa,Warren,10,6,1
+195,Iowa,Worth,10,4,4
+005,Kansas,Atchison,0,5,5
+015,Kansas,Butler,8,1,0
+073,Minnesota,Lac qui Parle,0,1,7
+083,Minnesota,Lyon,0,8,0
+085,Minnesota,McLeod,2,2,0
+093,Minnesota,Meeker,10,5,9
+103,Minnesota,Nicollet,3,4,9
+113,Minnesota,Pennington,9,0,3
+121,Minnesota,Pope,4,0,2
+127,Minnesota,Redwood,9,5,10
+147,Minnesota,Steele,0,8,2
+153,Minnesota,Todd,2,1,5
+161,Minnesota,Waseca,3,3,9
+003,Mississippi,Alcorn,4,5,8
+013,Mississippi,Calhoun,7,1,10
+017,Mississippi,Chickasaw,2,5,0
+029,Mississippi,Copiah,10,3,2
+037,Mississippi,Franklin,0,6,8
+049,Mississippi,Hinds,9,5,2
+061,Mississippi,Jasper,7,4,9
+065,Mississippi,Jefferson Davis,10,0,1
+075,Mississippi,Lauderdale,0,4,0
+121,Louisiana,West Baton Rouge,4,2,6
+127,Louisiana,Winn,0,4,1
+009,Maine,Hancock,3,2,7
+029,Maine,Washington,10,1,4
+001,Maryland,Allegany,3,6,6
+003,Maryland,Anne Arundel,6,6,9
+009,Maryland,Calvert,5,3,10
+017,Maryland,Charles,3,8,1
+019,Maryland,Dorchester,10,5,7
+029,Maryland,Kent,5,6,9
+035,Maryland,Queen Anne's,7,9,9
+037,Maryland,St. Mary's,2,5,3
+039,Maryland,Somerset,10,10,9
+041,Maryland,Talbot,6,10,6
+011,Massachusetts,Franklin,10,7,8
+009,Michigan,Antrim,4,6,1
+015,Michigan,Barry,9,8,0
+023,Michigan,Branch,4,5,10
+035,Michigan,Clare,8,8,9
+037,Michigan,Clinton,4,7,2
+045,Michigan,Eaton,8,4,2
+057,Michigan,Gratiot,2,9,7
+061,Michigan,Houghton,8,1,2
+073,Michigan,Isabella,1,3,10
+077,Michigan,Kalamazoo,3,5,0
+083,Michigan,Keweenaw,10,2,6
+085,Michigan,Lake,8,7,6
+091,Michigan,Lenawee,5,1,8
+097,Michigan,Mackinac,2,4,0
+103,Michigan,Marquette,9,9,5
+107,Michigan,Mecosta,4,2,1
+111,Michigan,Midland,1,6,7
+117,Michigan,Montcalm,5,0,2
+123,Michigan,Newaygo,5,2,2
+133,Michigan,Osceola,3,10,6
+143,Michigan,Roscommon,6,9,2
+155,Michigan,Shiawassee,5,4,6
+161,Michigan,Washtenaw,7,6,7
+165,Michigan,Wexford,5,8,6
+009,Minnesota,Benton,0,9,5
+019,Minnesota,Carver,2,2,3
+029,Minnesota,Clearwater,2,10,5
+039,Minnesota,Dodge,4,6,3
+051,Minnesota,Grant,7,1,4
+057,Minnesota,Hubbard,6,3,2
+067,Minnesota,Kandiyohi,5,2,4
+097,Missouri,Jasper,10,6,4
+103,Missouri,Knox,9,2,7
+109,Missouri,Lawrence,6,5,10
+117,Missouri,Livingston,0,0,8
+131,Missouri,Miller,10,7,8
+137,Missouri,Monroe,3,10,0
+151,Missouri,Osage,1,2,4
+159,Missouri,Pettis,2,1,4
+169,Missouri,Pulaski,6,3,6
+179,Missouri,Reynolds,0,3,4
+195,Missouri,Saline,1,6,6
+205,Missouri,Shelby,3,4,4
+211,Missouri,Sullivan,5,2,8
+221,Missouri,Washington,2,10,1
+229,Missouri,Wright,10,3,2
+013,Montana,Cascade,2,1,3
+037,Montana,Golden Valley,4,7,6
+043,Montana,Jefferson,9,6,6
+121,Nebraska,Merrick,1,6,6
+125,Nebraska,Nance,1,0,9
+135,Nebraska,Perkins,1,4,4
+137,Nebraska,Phelps,1,0,2
+147,Nebraska,Richardson,9,10,1
+159,Nebraska,Seward,0,0,9
+163,Nebraska,Sherman,5,7,8
+171,Nebraska,Thomas,1,1,2
+183,Nebraska,Wheeler,2,2,3
+009,Nevada,Esmeralda,3,8,5
+021,Nevada,Mineral,0,2,5
+033,Nevada,White Pine,1,8,1
+007,New Jersey,Camden,10,4,3
+015,New Jersey,Gloucester,5,1,1
+031,New Jersey,Passaic,10,5,5
+001,New Mexico,Bernalillo,3,2,2
+006,New Mexico,Cibola,10,4,6
+051,Montana,Liberty,9,5,6
+059,Montana,Meagher,6,8,0
+069,Montana,Petroleum,7,5,3
+093,Montana,Silver Bow,4,6,0
+099,Montana,Teton,2,9,2
+107,Montana,Wheatland,5,5,1
+003,Nebraska,Antelope,8,5,1
+009,Nebraska,Blaine,3,0,10
+023,Nebraska,Butler,9,10,2
+035,Nebraska,Clay,7,3,7
+037,Nebraska,Colfax,6,2,6
+047,Nebraska,Dawson,7,9,4
+053,Nebraska,Dodge,8,10,7
+063,Nebraska,Frontier,8,9,6
+073,Nebraska,Gosper,5,9,8
+085,Nebraska,Hayes,6,10,6
+093,Nebraska,Howard,6,2,1
+097,Nebraska,Johnson,9,5,2
+117,Nebraska,McPherson,4,1,3
+079,Mississippi,Leake,6,3,3
+083,Mississippi,Leflore,6,2,9
+095,Mississippi,Monroe,5,4,1
+099,Mississippi,Neshoba,2,1,6
+103,Mississippi,Noxubee,5,6,2
+115,Mississippi,Pontotoc,7,10,3
+117,Mississippi,Prentiss,7,5,10
+127,Mississippi,Simpson,5,2,1
+139,Mississippi,Tippah,0,9,2
+151,Mississippi,Washington,7,8,9
+001,Missouri,Adair,8,7,6
+009,Missouri,Barry,9,6,1
+021,Missouri,Buchanan,8,0,0
+033,Missouri,Carroll,5,5,3
+043,Missouri,Christian,7,8,4
+053,Missouri,Cooper,3,1,0
+065,Missouri,Dent,0,2,9
+075,Missouri,Gentry,10,2,9
+085,Missouri,Hickory,9,0,0
+001,North Carolina,Alamance,9,10,7
+005,North Carolina,Alleghany,10,7,0
+017,North Carolina,Bladen,10,1,9
+021,North Carolina,Buncombe,1,2,0
+027,North Carolina,Caldwell,6,0,3
+055,North Carolina,Dare,0,7,2
+057,North Carolina,Davidson,4,10,0
+067,North Carolina,Forsyth,1,2,6
+081,North Carolina,Guilford,7,8,2
+091,North Carolina,Hertford,2,0,8
+103,North Carolina,Jones,1,3,1
+117,North Carolina,Martin,2,2,8
+127,North Carolina,Nash,0,0,8
+141,North Carolina,Pender,0,2,9
+151,North Carolina,Randolph,2,10,8
+165,North Carolina,Scotland,9,9,3
+167,North Carolina,Stanly,9,8,8
+055,Ohio,Geauga,1,1,9
+063,Ohio,Hancock,8,0,3
+065,Ohio,Hardin,4,4,1
+075,Ohio,Holmes,3,7,2
+089,Ohio,Licking,4,5,3
+097,Ohio,Madison,6,7,5
+109,Ohio,Miami,4,3,5
+121,Ohio,Noble,7,5,7
+131,Ohio,Pike,10,3,7
+143,Ohio,Sandusky,4,9,6
+147,Ohio,Seneca,7,4,6
+159,Ohio,Union,4,10,7
+169,Ohio,Wayne,3,8,6
+173,Ohio,Wood,9,2,5
+009,Oklahoma,Beckham,8,6,2
+019,Oklahoma,Carter,8,3,3
+031,Oklahoma,Comanche,9,0,5
+043,Oklahoma,Dewey,0,9,2
+053,Oklahoma,Grant,6,10,1
+181,North Carolina,Vance,2,1,5
+191,North Carolina,Wayne,0,9,1
+197,North Carolina,Yadkin,2,3,3
+007,North Dakota,Billings,4,2,6
+019,North Dakota,Cavalier,1,0,5
+031,North Dakota,Foster,5,2,0
+035,North Dakota,Grand Forks,10,9,5
+045,North Dakota,LaMoure,1,0,6
+061,North Dakota,Mountrail,8,1,3
+073,North Dakota,Ransom,3,4,5
+079,North Dakota,Rolette,2,4,0
+091,North Dakota,Steele,7,3,1
+103,North Dakota,Wells,8,2,4
+003,Ohio,Allen,8,4,3
+015,Ohio,Brown,3,10,6
+027,Ohio,Clinton,0,1,6
+039,Ohio,Defiance,0,4,10
+047,Ohio,Fayette,0,1,9
+015,New Mexico,Eddy,3,5,1
+027,New Mexico,Lincoln,8,2,6
+028,New Mexico,Los Alamos,4,4,4
+045,New Mexico,San Juan,6,8,10
+053,New Mexico,Socorro,9,6,8
+003,New York,Allegany,6,3,1
+021,New York,Columbia,9,6,0
+037,New York,Genesee,4,5,6
+043,New York,Herkimer,9,4,8
+057,New York,Montgomery,8,6,2
+069,New York,Ontario,7,1,6
+083,New York,Rensselaer,1,1,4
+095,New York,Schoharie,6,1,3
+109,New York,Tompkins,7,2,8
+121,New York,Wyoming,8,5,10
+123,New York,Yates,8,5,0
+013,Pennsylvania,Blair,8,0,5
+015,Pennsylvania,Bradford,0,6,6
+021,Pennsylvania,Cambria,7,9,4
+031,Pennsylvania,Clarion,4,2,9
+047,Pennsylvania,Elk,2,9,7
+063,Pennsylvania,Indiana,1,10,2
+069,Pennsylvania,Lackawanna,3,3,5
+087,Pennsylvania,Mifflin,7,10,2
+093,Pennsylvania,Montour,5,3,4
+105,Pennsylvania,Potter,5,7,9
+113,Pennsylvania,Sullivan,6,7,9
+123,Pennsylvania,Warren,0,10,6
+005,South Carolina,Allendale,8,5,1
+009,South Carolina,Bamberg,6,9,6
+027,South Carolina,Clarendon,9,2,6
+039,South Carolina,Fairfield,7,2,1
+005,Tennessee,Benton,6,4,5
+007,Tennessee,Bledsoe,2,2,7
+013,Tennessee,Campbell,5,7,6
+027,Tennessee,Clay,3,8,8
+031,Tennessee,Coffee,9,10,2
+045,Tennessee,Dyer,0,9,1
+057,Tennessee,Grainger,10,1,1
+069,Tennessee,Hardeman,2,8,7
+081,Tennessee,Hickman,10,1,2
+093,Tennessee,Knox,6,0,3
+105,Tennessee,Loudon,2,8,8
+117,Tennessee,Marshall,0,9,1
+129,Tennessee,Morgan,5,9,5
+139,Tennessee,Polk,1,8,10
+151,Tennessee,Scott,10,0,7
+173,Tennessee,Union,10,8,4
+179,Tennessee,Washington,5,3,2
+049,South Carolina,Hampton,9,7,9
+053,South Carolina,Jasper,8,9,3
+075,South Carolina,Orangeburg,7,9,7
+081,South Carolina,Saluda,2,4,4
+003,South Dakota,Aurora,4,10,2
+007,South Dakota,Bennett,9,3,0
+017,South Dakota,Buffalo,2,9,9
+029,South Dakota,Codington,6,1,2
+035,South Dakota,Davison,8,3,7
+043,South Dakota,Douglas,5,5,10
+055,South Dakota,Haakon,0,3,5
+061,South Dakota,Hanson,3,7,6
+087,South Dakota,McCook,9,9,0
+095,South Dakota,Mellette,1,9,0
+103,South Dakota,Pennington,7,7,6
+111,South Dakota,Sanborn,0,4,4
+125,South Dakota,Turner,3,9,0
+137,South Dakota,Ziebach,3,2,9
+059,Oklahoma,Harper,7,9,0
+063,Oklahoma,Hughes,1,4,3
+073,Oklahoma,Kingfisher,5,10,3
+081,Oklahoma,Lincoln,5,4,8
+087,Oklahoma,McClain,7,6,2
+097,Oklahoma,Mayes,9,5,8
+109,Oklahoma,Oklahoma,0,0,1
+123,Oklahoma,Pontotoc,2,5,9
+127,Oklahoma,Pushmataha,9,6,5
+147,Oklahoma,Washington,4,2,3
+153,Oklahoma,Woodward,10,0,8
+017,Oregon,Deschutes,10,8,9
+031,Oregon,Jefferson,3,3,3
+037,Oregon,Lake,2,6,9
+053,Oregon,Polk,7,5,6
+069,Oregon,Wheeler,10,9,0
+005,Pennsylvania,Armstrong,7,9,7
+357,Texas,Ochiltree,2,10,10
+359,Texas,Oldham,3,7,10
+367,Texas,Parker,7,2,0
+379,Texas,Rains,0,0,9
+381,Texas,Randall,0,8,5
+393,Texas,Roberts,0,4,9
+397,Texas,Rockwall,7,7,5
+411,Texas,San Saba,7,7,2
+425,Texas,Somervell,3,3,6
+429,Texas,Stephens,2,7,0
+433,Texas,Stonewall,4,0,9
+445,Texas,Terry,2,9,3
+449,Texas,Titus,3,3,0
+459,Texas,Upshur,0,0,2
+463,Texas,Uvalde,1,9,0
+475,Texas,Ward,1,0,8
+491,Texas,Williamson,7,1,3
+497,Texas,Wise,8,2,4
+507,Texas,Zavala,2,5,3
+011,Utah,Davis,7,5,7
+185,Tennessee,White,4,8,6
+189,Tennessee,Wilson,2,3,10
+009,Texas,Archer,3,9,6
+011,Texas,Armstrong,8,1,7
+021,Texas,Bastrop,7,6,3
+031,Texas,Blanco,0,6,7
+047,Texas,Brooks,2,8,4
+053,Texas,Burnet,10,10,2
+063,Texas,Camp,3,9,1
+069,Texas,Castro,9,10,4
+079,Texas,Cochran,6,6,6
+095,Texas,Concho,1,10,9
+099,Texas,Coryell,7,1,6
+103,Texas,Crane,0,0,7
+115,Texas,Dawson,1,8,2
+123,Texas,DeWitt,8,5,2
+127,Texas,Dimmit,10,0,9
+137,Texas,Edwards,0,10,10
+149,Texas,Fayette,3,7,10
+159,Texas,Franklin,10,0,6
+169,Texas,Garza,6,8,6
+177,Texas,Gonzales,2,6,0
+179,Texas,Gray,0,9,2
+185,Texas,Grimes,10,1,9
+191,Texas,Hall,10,7,8
+195,Texas,Hansford,7,4,2
+217,Texas,Hill,4,7,2
+227,Texas,Howard,1,6,0
+233,Texas,Hutchinson,5,0,0
+247,Texas,Jim Hogg,6,2,7
+251,Texas,Johnson,9,8,7
+263,Texas,Kent,1,0,9
+265,Texas,Kerr,10,4,4
+275,Texas,Knox,3,2,4
+283,Texas,La Salle,3,8,5
+297,Texas,Live Oak,3,1,10
+303,Texas,Lubbock,5,10,8
+309,Texas,McLennan,10,8,10
+319,Texas,Mason,1,8,2
+329,Texas,Midland,8,7,2
+339,Texas,Montgomery,4,0,2
+349,Texas,Navarro,9,10,1
+353,Texas,Nolan,6,4,3
+121,Virginia,Montgomery,0,6,6
+125,Virginia,Nelson,10,7,9
+141,Virginia,Patrick,7,3,6
+145,Virginia,Powhatan,1,1,5
+155,Virginia,Pulaski,3,7,8
+157,Virginia,Rappahannock,0,5,10
+173,Virginia,Smyth,5,10,2
+187,Virginia,Warren,3,1,4
+197,Virginia,Wythe,8,1,6
+510,Virginia,Alexandria,5,10,8
+530,Virginia,Buena Vista,5,8,3
+540,Virginia,Charlottesville,7,2,9
+595,Virginia,Emporia,4,3,9
+660,Virginia,Harrisonburg,9,9,1
+670,Virginia,Hopewell,3,6,2
+760,Virginia,Richmond,9,4,9
+775,Virginia,Salem,8,2,5
+820,Virginia,Waynesboro,6,2,5
+013,Washington,Columbia,2,10,2
+021,Washington,Franklin,8,3,9
+029,Wisconsin,Door,2,1,9
+033,Wisconsin,Dunn,7,1,8
+039,Wisconsin,Fond du Lac,1,8,0
+045,Wisconsin,Green,3,6,1
+063,Wisconsin,La Crosse,3,2,0
+069,Wisconsin,Lincoln,4,2,5
+073,Wisconsin,Marathon,2,8,9
+081,Wisconsin,Monroe,1,4,6
+095,Wisconsin,Polk,4,0,8
+103,Wisconsin,Richland,9,3,9
+115,Wisconsin,Shawano,9,3,10
+129,Wisconsin,Washburn,1,1,1
+141,Wisconsin,Wood,8,1,6
+025,Wyoming,Natrona,5,0,7
+031,Wyoming,Platte,4,8,10
+033,Wyoming,Sheridan,7,4,0
+045,Wyoming,Weston,1,6,6
+013,Unknown State,Arecibo,10,3,0
+041,Washington,Lewis,8,5,0
+045,Washington,Mason,2,4,5
+065,Washington,Stevens,5,1,2
+001,West Virginia,Barbour,10,4,9
+007,West Virginia,Braxton,0,4,9
+013,West Virginia,Calhoun,10,5,2
+021,West Virginia,Gilmer,5,10,6
+039,West Virginia,Kanawha,0,4,3
+049,West Virginia,Marion,5,6,8
+061,West Virginia,Monongalia,3,9,0
+079,West Virginia,Putnam,4,7,2
+089,West Virginia,Summers,5,1,5
+101,West Virginia,Webster,4,5,2
+003,Wisconsin,Ashland,0,8,0
+005,Wisconsin,Barron,10,3,4
+007,Wisconsin,Bayfield,8,5,9
+017,Wisconsin,Chippewa,7,6,1
+025,Wisconsin,Dane,4,7,8
+029,Utah,Morgan,10,8,0
+031,Utah,Piute,0,10,9
+035,Utah,Salt Lake,0,7,6
+051,Utah,Wasatch,2,0,10
+005,Vermont,Caledonia,4,2,0
+019,Vermont,Orleans,8,2,4
+007,Virginia,Amelia,0,1,3
+017,Virginia,Bath,0,9,1
+029,Virginia,Buckingham,10,0,4
+043,Virginia,Clarke,6,3,1
+047,Virginia,Culpeper,7,10,5
+063,Virginia,Floyd,3,8,4
+075,Virginia,Goochland,3,8,10
+101,Virginia,King William,7,9,10
+111,Virginia,Lunenburg,10,10,9
+113,Virginia,Madison,6,5,0
+023,Alabama,Choctaw,8,4,8
+025,Alabama,Clarke,0,9,8
+029,Alabama,Cleburne,9,1,8
+031,Alabama,Coffee,9,8,2
+037,Alabama,Coosa,9,8,3
+047,Alabama,Dallas,5,7,4
+055,Alabama,Etowah,6,3,9
+059,Alabama,Franklin,7,0,5
+061,Alabama,Geneva,10,5,5
+067,Alabama,Henry,3,3,0
+071,Alabama,Jackson,8,6,4
+081,Alabama,Lee,7,9,1
+085,Alabama,Lowndes,1,2,6
+087,Alabama,Macon,10,7,0
+089,Alabama,Madison,2,5,4
+070,Alaska,Dillingham,9,0,3
+110,Alaska,Juneau,8,3,10
+130,Alaska,Ketchikan Gateway,8,3,8
+185,Alaska,North Slope,3,0,7
+195,Alaska,Petersburg,4,2,2
+220,Alaska,Sitka,8,8,1
+230,Alaska,Skagway,4,3,4
+143,Arkansas,Washington,9,10,9
+147,Arkansas,Woodruff,2,5,3
+003,California,Alpine,4,2,10
+007,California,Butte,8,7,6
+093,Alabama,Marion,7,0,0
+095,Alabama,Marshall,10,10,2
+097,Alabama,Mobile,9,4,9
+101,Alabama,Montgomery,9,9,1
+117,Alabama,Shelby,10,9,6
+119,Alabama,Sumter,7,0,10
+125,Alabama,Tuscaloosa,8,7,4
+131,Alabama,Wilcox,9,3,1
+020,Alaska,Anchorage,10,6,8
+068,Alaska,Denali,5,4,4
+019,Unknown State,Barranquitas,5,3,10
+025,Unknown State,Caguas,7,10,5
+031,Unknown State,Carolina,7,0,5
+045,Unknown State,Comerío,7,3,8
+054,Unknown State,Florida,9,6,2
+061,Unknown State,Guaynabo,5,5,4
+069,Unknown State,Humacao,7,9,4
+083,Unknown State,Las Marías,3,8,9
+093,Unknown State,Maricao,1,2,7
+105,Unknown State,Naranjito,3,3,1
+115,Unknown State,Quebradillas,1,10,8
+129,Unknown State,San Lorenzo,4,1,1
+135,Unknown State,Toa Alta,1,7,8
+145,Unknown State,Vega Baja,4,8,0
+007,Alabama,Bibb,1,5,0
+011,Alabama,Bullock,4,4,9
+015,Alabama,Calhoun,10,6,3
+045,California,Mendocino,2,6,7
+049,California,Modoc,5,9,10
+051,California,Mono,6,0,9
+057,California,Nevada,5,5,7
+059,California,Orange,6,9,5
+065,California,Riverside,8,6,4
+069,California,San Benito,0,8,4
+073,California,San Diego,4,4,4
+075,California,San Francisco,1,9,7
+113,California,Yolo,5,6,5
+001,Colorado,Adams,6,1,7
+007,Colorado,Archuleta,2,10,3
+009,Colorado,Baca,0,1,0
+015,Colorado,Chaffee,2,0,6
+017,Colorado,Cheyenne,4,6,3
+021,Colorado,Conejos,2,10,1
+023,Colorado,Costilla,9,1,6
+029,Colorado,Delta,8,6,3
+037,Colorado,Eagle,3,7,4
+043,Colorado,Fremont,7,0,8
+081,California,San Mateo,6,0,1
+083,California,Santa Barbara,8,3,9
+087,California,Santa Cruz,10,3,6
+095,California,Solano,9,5,3
+101,California,Sutter,2,9,0
+103,California,Tehama,9,9,0
+109,California,Tuolumne,1,8,5
+009,California,Calaveras,0,9,2
+013,California,Contra Costa,1,2,4
+015,California,Del Norte,10,7,7
+013,Alaska,Aleutians East,10,6,1
+149,Georgia,Heard,5,6,0
+059,Kansas,Franklin,10,1,6
+025,California,Imperial,9,2,1
+029,California,Kern,1,10,6
+031,California,Kings,4,2,7
+039,California,Madera,4,7,10
+067,Georgia,Cobb,5,1,10
+069,Georgia,Coffee,3,6,3
+073,Georgia,Columbia,9,0,3
+077,Georgia,Coweta,0,8,9
+081,Georgia,Crisp,4,0,1
+087,Georgia,Decatur,10,5,2
+093,Georgia,Dooly,2,6,6
+095,Georgia,Dougherty,7,9,8
+101,Georgia,Echols,2,4,1
+103,Georgia,Effingham,6,2,4
+109,Georgia,Evans,8,4,4
+115,Georgia,Floyd,7,2,4
+119,Georgia,Franklin,10,7,10
+061,Colorado,Kiowa,3,5,7
+063,Colorado,Kit Carson,6,10,5
+069,Colorado,Larimer,2,7,4
+089,Florida,Nassau,0,10,0
+091,Florida,Okaloosa,4,2,10
+097,Florida,Osceola,10,1,10
+099,Florida,Palm Beach,1,4,1
+101,Florida,Pasco,10,0,0
+107,Florida,Putnam,2,6,8
+109,Florida,St. Johns,6,6,5
+113,Florida,Santa Rosa,1,3,8
+115,Florida,Sarasota,2,2,0
+117,Florida,Seminole,1,6,1
+127,Florida,Volusia,3,5,4
+131,Florida,Walton,10,7,0
+003,Georgia,Atkinson,7,7,4
+005,Georgia,Bacon,10,10,0
+009,Georgia,Baldwin,6,9,2
+015,Georgia,Bartow,10,1,5
+023,Georgia,Bleckley,10,3,10
+025,Georgia,Brantley,9,2,10
+031,Georgia,Bulloch,9,6,6
+037,Georgia,Calhoun,7,8,0
+049,Georgia,Charlton,8,6,5
+053,Georgia,Chattahoochee,6,3,7
+057,Georgia,Cherokee,0,3,0
+063,Georgia,Clayton,7,9,2
+013,Connecticut,Tolland,8,6,8
+005,Delaware,Sussex,5,3,9
+001,District of Columbia,District of Columbia,9,4,3
+003,Florida,Baker,8,4,9
+005,Florida,Bay,6,1,5
+011,Florida,Broward,5,5,4
+015,Florida,Charlotte,1,3,0
+071,Florida,Lee,2,5,5
+079,Florida,Madison,10,8,3
+081,Florida,Manatee,9,7,8
+275,Alaska,Wrangell,5,7,7
+085,Colorado,Montrose,9,10,8
+017,Florida,Citrus,0,3,1
+029,Florida,Dixie,3,6,3
+031,Florida,Duval,9,5,2
+041,Florida,Gilchrist,9,4,4
+043,Florida,Glades,10,6,1
+045,Florida,Gulf,1,0,4
+049,Florida,Hardee,0,1,10
+051,Florida,Hendry,9,5,10
+053,Florida,Hernando,0,3,6
+061,Florida,Indian River,4,8,9
+063,Florida,Jackson,2,1,7
+069,Florida,Lake,0,6,7
+075,Colorado,Logan,8,2,4
+077,Colorado,Mesa,0,8,0
+081,Colorado,Moffat,6,0,5
+087,Colorado,Morgan,8,5,5
+091,Colorado,Ouray,0,7,4
+097,Colorado,Pitkin,1,5,4
+103,Colorado,Rio Blanco,4,0,1
+109,Colorado,Saguache,9,1,6
+119,Colorado,Teller,5,5,10
+121,Colorado,Washington,1,0,6
+125,Colorado,Yuma,5,9,5
+003,Connecticut,Hartford,3,8,6
+007,Connecticut,Middlesex,9,0,8
+015,Arkansas,Carroll,2,10,9
+017,Arkansas,Chicot,3,4,8
+025,Arkansas,Cleveland,8,6,5
+027,Arkansas,Columbia,5,9,8
+033,Arkansas,Crawford,1,9,4
+045,Arkansas,Faulkner,8,6,0
+047,Arkansas,Franklin,0,3,5
+053,Arkansas,Grant,9,10,1
+059,Arkansas,Hot Spring,6,1,7
+067,Arkansas,Jackson,4,10,7
+073,Arkansas,Lafayette,5,1,0
+081,Arkansas,Little River,5,0,9
+083,Arkansas,Logan,6,1,7
+087,Arkansas,Madison,3,1,3
+001,Hawaii,Hawaii,3,5,1
+007,Hawaii,Kauai,7,9,6
+001,Idaho,Ada,8,3,4
+003,Idaho,Adams,9,7,8
+009,Idaho,Benewah,2,10,8
+017,Idaho,Bonner,7,0,4
+019,Idaho,Bonneville,2,9,8
+089,Arkansas,Marion,0,6,3
+091,Arkansas,Miller,7,2,1
+093,Arkansas,Mississippi,2,7,5
+099,Arkansas,Nevada,3,5,7
+103,Arkansas,Ouachita,7,1,4
+113,Arkansas,Polk,2,6,1
+115,Arkansas,Pope,10,2,5
+121,Arkansas,Randolph,7,0,7
+133,Arkansas,Sevier,4,7,4
+137,Arkansas,Stone,1,8,8
+317,Georgia,Wilkes,3,10,10
+321,Georgia,Worth,0,2,0
+005,Arizona,Coconino,6,1,9
+009,Arizona,Graham,2,3,8
+011,Arizona,Greenlee,3,1,9
+012,Arizona,La Paz,9,2,4
+017,Arizona,Navajo,9,6,2
+021,Arizona,Pinal,9,8,6
+023,Arizona,Santa Cruz,5,8,6
+027,Arizona,Yuma,8,1,10
+003,Arkansas,Ashley,6,8,1
+013,Arkansas,Calhoun,10,1,4
+071,Idaho,Oneida,9,6,10
+077,Idaho,Power,0,8,7
+079,Idaho,Shoshone,8,0,8
+083,Idaho,Twin Falls,6,3,1
+003,Illinois,Alexander,1,9,10
+007,Illinois,Boone,1,0,6
+011,Illinois,Bureau,3,10,7
+015,Illinois,Carroll,8,3,7
+023,Illinois,Clark,6,4,5
+033,Illinois,Crawford,0,3,3
+037,Illinois,DeKalb,10,2,5
+041,Illinois,Douglas,9,6,7
+043,Illinois,DuPage,4,10,7
+117,Indiana,Orange,1,5,9
+121,Indiana,Parke,9,6,8
+127,Indiana,Porter,10,8,3
+135,Indiana,Randolph,7,10,5
+137,Indiana,Ripley,4,6,2
+141,Indiana,St. Joseph,5,2,4
+149,Indiana,Starke,7,6,5
+151,Indiana,Steuben,10,6,2
+159,Indiana,Tipton,0,3,4
+161,Indiana,Union,6,7,9
+167,Indiana,Vigo,5,0,10
+169,Indiana,Wabash,6,0,9
+175,Indiana,Washington,6,5,6
+181,Indiana,White,8,2,5
+001,Iowa,Adair,1,3,5
+047,Illinois,Edwards,9,9,7
+051,Illinois,Fayette,0,10,4
+053,Illinois,Ford,1,1,8
+057,Illinois,Fulton,3,5,5
+063,Illinois,Grundy,6,8,4
+055,Indiana,Greene,1,8,8
+057,Indiana,Hamilton,4,3,4
+065,Indiana,Henry,7,9,10
+067,Indiana,Howard,6,7,3
+071,Indiana,Jackson,6,7,4
+077,Indiana,Jefferson,2,8,1
+087,Indiana,LaGrange,7,8,9
+091,Indiana,LaPorte,5,8,7
+097,Indiana,Marion,0,6,6
+101,Indiana,Martin,5,1,5
+103,Indiana,Miami,1,6,10
+109,Indiana,Morgan,8,2,10
+023,Idaho,Butte,5,9,9
+025,Idaho,Camas,7,10,7
+029,Idaho,Caribou,4,7,9
+033,Idaho,Clark,1,3,2
+041,Idaho,Franklin,2,1,8
+043,Idaho,Fremont,1,10,0
+047,Idaho,Gooding,4,9,6
+053,Idaho,Jerome,1,6,7
+055,Idaho,Kootenai,7,6,7
+061,Idaho,Lewis,6,5,9
+065,Idaho,Madison,9,2,5
+069,Idaho,Nez Perce,1,2,3
+007,Indiana,Benton,6,9,5
+013,Indiana,Brown,8,1,7
+015,Indiana,Carroll,10,6,4
+019,Indiana,Clark,5,8,7
+025,Indiana,Crawford,0,7,8
+031,Indiana,Decatur,5,9,7
+035,Indiana,Delaware,9,2,1
+045,Indiana,Fountain,4,1,2
+137,Georgia,Habersham,2,6,5
+141,Georgia,Hancock,7,9,10
+147,Georgia,Hart,3,6,9
+155,Georgia,Irwin,0,0,6
+159,Georgia,Jasper,10,9,6
+165,Georgia,Jenkins,7,3,6
+171,Georgia,Lamar,0,6,5
+173,Georgia,Lanier,6,2,2
+091,Kansas,Johnson,9,6,9
+097,Kansas,Kiowa,9,0,3
+099,Kansas,Labette,4,2,10
+103,Kansas,Leavenworth,8,3,9
+109,Kansas,Logan,5,6,3
+113,Kansas,McPherson,0,6,8
+119,Kansas,Meade,9,6,10
+125,Kansas,Montgomery,4,9,2
+131,Kansas,Nemaha,5,7,1
+141,Kansas,Osborne,8,7,3
+143,Kansas,Ottawa,2,1,2
+157,Kansas,Republic,10,10,0
+165,Kansas,Rush,3,7,0
+167,Kansas,Russell,2,0,1
+171,Kansas,Scott,5,1,10
+177,Kansas,Shawnee,4,7,10
+057,Louisiana,Lafourche,0,2,9
+061,Louisiana,Lincoln,5,6,0
+063,Louisiana,Livingston,9,0,8
+069,Louisiana,Natchitoches,4,3,2
+075,Louisiana,Plaquemines,8,5,5
+079,Louisiana,Rapides,4,7,6
+081,Louisiana,Red River,0,9,4
+085,Louisiana,Sabine,8,0,3
+111,Kentucky,Jefferson,4,1,8
+113,Kentucky,Jessamine,6,5,6
+123,Kentucky,Larue,1,1,5
+129,Kentucky,Lee,2,7,7
+135,Kentucky,Lewis,5,3,6
+139,Kentucky,Livingston,3,8,9
+145,Kentucky,McCracken,4,2,9
+153,Kentucky,Magoffin,1,3,3
+159,Kentucky,Martin,3,3,6
+167,Kentucky,Mercer,6,5,10
+171,Kentucky,Monroe,7,6,9
+173,Kentucky,Montgomery,5,9,4
+179,Kentucky,Nelson,4,0,4
+053,Iowa,Decatur,2,6,1
+003,Indiana,Allen,1,5,5
+181,Georgia,Lincoln,2,4,0
+061,Iowa,Dubuque,10,9,6
+069,Iowa,Franklin,8,8,8
+075,Iowa,Grundy,4,3,1
+077,Iowa,Guthrie,9,1,8
+089,Iowa,Howard,0,7,5
+093,Iowa,Ida,4,10,6
+101,Iowa,Jefferson,0,1,10
+103,Iowa,Johnson,5,0,9
+107,Iowa,Keokuk,1,8,9
+111,Iowa,Lee,8,2,7
+127,Iowa,Marshall,4,5,1
+129,Iowa,Mills,3,0,0
+135,Iowa,Monroe,2,3,7
+139,Iowa,Muscatine,5,3,6
+145,Iowa,Page,10,10,10
+181,Kansas,Sherman,0,9,1
+153,Iowa,Polk,9,10,6
+155,Iowa,Pottawattamie,8,7,1
+159,Iowa,Ringgold,9,10,2
+163,Iowa,Scott,1,4,5
+171,Iowa,Tama,8,9,5
+177,Iowa,Van Buren,4,3,9
+183,Iowa,Washington,10,10,6
+189,Iowa,Winnebago,0,1,0
+193,Iowa,Woodbury,1,3,2
+003,Kansas,Anderson,0,9,10
+009,Kansas,Barton,9,2,9
+017,Kansas,Chase,2,2,6
+019,Kansas,Chautauqua,10,7,10
+211,Georgia,Morgan,1,8,0
+081,Minnesota,Lincoln,7,5,7
+089,Minnesota,Marshall,0,7,6
+091,Minnesota,Martin,5,8,0
+095,Minnesota,Mille Lacs,7,4,0
+097,Minnesota,Morrison,5,10,3
+099,Minnesota,Mower,7,3,0
+105,Minnesota,Nobles,9,8,0
+109,Minnesota,Olmsted,3,0,0
+111,Minnesota,Otter Tail,10,8,10
+115,Minnesota,Pine,8,0,7
+117,Minnesota,Pipestone,2,2,10
+119,Minnesota,Polk,9,10,5
+129,Minnesota,Renville,7,5,3
+133,Minnesota,Rock,10,6,8
+059,Iowa,Dickinson,9,7,1
+141,Minnesota,Sherburne,7,8,3
+145,Minnesota,Stearns,4,1,3
+149,Minnesota,Stevens,2,5,7
+157,Minnesota,Wabasha,1,2,8
+163,Minnesota,Washington,8,9,6
+171,Minnesota,Wright,5,3,9
+005,Mississippi,Amite,7,0,5
+009,Mississippi,Benton,2,3,2
+011,Mississippi,Bolivar,1,2,6
+015,Mississippi,Carroll,8,3,3
+021,Mississippi,Claiborne,2,10,7
+031,Mississippi,Covington,7,5,6
+039,Mississippi,George,0,7,2
+149,Iowa,Plymouth,9,1,9
+045,Mississippi,Hancock,2,3,1
+051,Mississippi,Holmes,8,9,7
+053,Mississippi,Humphreys,7,0,5
+059,Mississippi,Jackson,2,1,8
+067,Mississippi,Jones,6,9,1
+073,Mississippi,Lamar,3,4,6
+007,Maine,Franklin,4,10,9
+215,Georgia,Muscogee,8,6,10
+239,Georgia,Quitman,0,2,9
+077,Minnesota,Lake of the Woods,10,4,8
+031,South Carolina,Darlington,8,6,5
+035,South Carolina,Dorchester,7,9,7
+037,South Carolina,Edgefield,6,1,3
+011,Tennessee,Bradley,8,7,5
+017,Tennessee,Carroll,3,0,4
+021,Tennessee,Cheatham,1,9,6
+025,Tennessee,Claiborne,2,5,6
+033,Tennessee,Crockett,10,3,10
+035,Tennessee,Cumberland,10,4,8
+041,Tennessee,DeKalb,3,7,6
+047,Tennessee,Fayette,8,10,1
+049,Tennessee,Fentress,6,5,4
+059,Tennessee,Greene,5,7,1
+061,Tennessee,Grundy,9,10,1
+137,Minnesota,St. Louis,2,2,3
+015,Maine,Lincoln,7,2,3
+021,Maine,Piscataquis,4,10,3
+023,Maine,Sagadahoc,1,2,7
+031,Maine,York,2,6,9
+041,Mississippi,Greene,6,10,2
+149,Nebraska,Rock,8,5,4
+151,Nebraska,Saline,5,6,2
+155,Nebraska,Saunders,1,3,9
+161,Nebraska,Sheridan,5,10,8
+169,Nebraska,Thayer,1,7,6
+173,Nebraska,Thurston,3,8,9
+181,Nebraska,Webster,5,8,8
+005,Nevada,Douglas,6,0,7
+007,Nevada,Elko,7,4,5
+013,Nevada,Humboldt,2,10,1
+017,Nevada,Lincoln,6,4,2
+023,Nevada,Nye,7,9,5
+011,Maine,Kennebec,6,1,1
+105,Ohio,Meigs,1,9,8
+107,Ohio,Mercer,8,0,7
+117,Ohio,Morrow,8,1,5
+119,Ohio,Muskingum,4,6,7
+125,Ohio,Paulding,2,8,0
+129,Ohio,Pickaway,2,8,0
+133,Ohio,Portage,1,0,7
+135,Ohio,Preble,1,9,8
+139,Ohio,Richland,10,8,7
+141,Ohio,Ross,4,3,8
+149,Ohio,Shelby,2,4,4
+151,Ohio,Stark,10,2,0
+157,Ohio,Tuscarawas,1,0,4
+161,Ohio,Van Wert,7,8,8
+065,Tennessee,Hamilton,10,8,3
+067,Tennessee,Hancock,10,3,10
+071,Tennessee,Hardin,3,4,4
+077,Tennessee,Henderson,8,7,3
+083,Tennessee,Houston,0,3,0
+087,Tennessee,Jackson,1,0,8
+095,Tennessee,Lake,10,2,9
+101,Tennessee,Lewis,6,3,5
+107,Tennessee,McMinn,9,6,0
+109,Tennessee,McNairy,7,6,0
+111,Tennessee,Macon,8,2,6
+119,Tennessee,Maury,6,10,2
+125,Tennessee,Montgomery,2,10,7
+135,Tennessee,Perry,0,2,5
+137,Tennessee,Pickett,4,8,10
+011,Maryland,Caroline,0,7,6
+013,Maryland,Carroll,7,6,10
+021,Maryland,Frederick,7,7,6
+023,Maryland,Garrett,1,2,3
+031,Maryland,Montgomery,0,0,1
+033,Maryland,Prince George's,6,4,2
+043,Maryland,Washington,4,1,5
+031,Nevada,Washoe,0,8,4
+510,Nevada,Carson City,2,6,8
+003,New Hampshire,Carroll,10,9,5
+009,New Hampshire,Grafton,6,6,8
+015,New Hampshire,Rockingham,0,4,5
+019,New Hampshire,Sullivan,7,5,6
+003,New Jersey,Bergen,1,10,2
+009,New Jersey,Cape May,7,1,5
+013,New Jersey,Essex,2,8,9
+167,Ohio,Washington,1,4,10
+171,Ohio,Williams,6,10,0
+175,Ohio,Wyandot,9,3,8
+003,Oklahoma,Alfalfa,0,0,2
+011,Oklahoma,Blaine,7,7,10
+013,Oklahoma,Bryan,10,2,3
+017,Oklahoma,Canadian,1,2,3
+025,Oklahoma,Cimarron,10,10,9
+029,Oklahoma,Coal,0,1,10
+035,Oklahoma,Craig,6,2,1
+039,Oklahoma,Custer,10,5,8
+045,Oklahoma,Ellis,1,7,9
+049,Oklahoma,Garvin,3,2,7
+055,Oklahoma,Greer,5,8,1
+193,North Carolina,Wilkes,8,2,2
+141,Tennessee,Putnam,8,2,5
+045,Texas,Briscoe,2,10,4
+049,Texas,Brown,8,3,9
+055,Texas,Caldwell,5,4,9
+061,Texas,Cameron,10,6,8
+065,Texas,Carson,9,10,9
+067,Texas,Cass,1,1,6
+073,Texas,Cherokee,1,7,8
+077,Texas,Clay,1,8,6
+081,Texas,Coke,3,1,9
+085,Texas,Collin,1,1,6
+087,Texas,Collingsworth,10,8,3
+091,Texas,Comal,8,3,5
+047,Maryland,Worcester,10,4,5
+007,Massachusetts,Dukes,6,5,2
+013,Massachusetts,Hampden,3,7,4
+015,Massachusetts,Hampshire,4,6,8
+017,Massachusetts,Middlesex,4,4,9
+017,New Jersey,Hudson,5,3,10
+019,New Jersey,Hunterdon,6,5,7
+021,New Jersey,Mercer,10,5,2
+029,New Jersey,Ocean,0,9,2
+033,New Jersey,Salem,2,9,9
+035,New Jersey,Somerset,10,9,7
+041,New Jersey,Warren,3,6,4
+007,New Mexico,Colfax,8,10,0
+055,Montana,McCone,7,6,5
+057,Montana,Madison,3,2,0
+195,North Carolina,Wilson,9,10,10
+199,North Carolina,Yancey,5,3,3
+005,North Dakota,Benson,7,10,1
+009,North Dakota,Bottineau,6,10,5
+017,North Dakota,Cass,6,0,9
+027,North Dakota,Eddy,3,1,2
+029,North Dakota,Emmons,6,9,7
+037,North Dakota,Grant,6,2,9
+039,North Dakota,Griggs,10,2,10
+043,North Dakota,Kidder,6,7,0
+047,North Dakota,Logan,7,3,5
+053,North Dakota,McKenzie,0,5,9
+059,North Dakota,Morton,9,1,6
+063,North Dakota,Nelson,9,10,5
+001,Tennessee,Anderson,6,4,2
+003,Tennessee,Bedford,10,8,6
+065,Oklahoma,Jackson,4,1,10
+071,Oklahoma,Kay,10,3,7
+083,Oklahoma,Logan,7,4,0
+085,Oklahoma,Love,6,5,3
+091,Oklahoma,McIntosh,10,9,9
+099,Oklahoma,Murray,5,1,8
+101,Oklahoma,Muskogee,3,10,3
+107,Oklahoma,Okfuskee,0,8,5
+111,Oklahoma,Okmulgee,4,3,10
+117,Oklahoma,Pawnee,7,7,7
+119,Oklahoma,Payne,8,2,5
+125,Oklahoma,Pottawatomie,0,0,5
+021,Massachusetts,Norfolk,2,4,10
+023,Massachusetts,Plymouth,0,2,6
+003,Michigan,Alger,9,1,0
+005,Michigan,Allegan,9,7,6
+007,Michigan,Alpena,9,5,2
+063,Montana,Missoula,0,1,8
+065,Montana,Musselshell,6,6,7
+071,Montana,Phillips,5,10,8
+077,Montana,Powell,1,0,4
+083,Montana,Richland,7,10,3
+087,Montana,Rosebud,4,4,7
+091,Montana,Sheridan,10,6,6
+097,Montana,Sweet Grass,10,7,1
+101,Montana,Toole,9,3,0
+065,North Dakota,Oliver,0,3,9
+067,North Dakota,Pembina,8,4,0
+071,North Dakota,Ramsey,8,10,8
+075,North Dakota,Renville,7,10,0
+081,North Dakota,Sargent,8,8,5
+089,North Dakota,Stark,2,6,10
+093,North Dakota,Stutsman,10,2,0
+097,North Dakota,Traill,2,8,2
+101,North Dakota,Ward,9,5,3
+001,Ohio,Adams,4,5,2
+005,Ohio,Ashland,4,8,2
+011,Ohio,Auglaize,5,3,2
+013,Ohio,Belmont,10,9,8
+017,Ohio,Butler,6,3,3
+019,Ohio,Carroll,9,3,4
+003,Pennsylvania,Allegheny,9,1,5
+007,Pennsylvania,Beaver,10,9,3
+361,Texas,Orange,3,9,9
+369,Texas,Parmer,2,6,9
+383,Texas,Reagan,2,3,0
+385,Texas,Real,10,8,2
+387,Texas,Red River,2,3,3
+395,Texas,Robertson,10,0,6
+399,Texas,Runnels,9,10,3
+403,Texas,Sabine,7,1,0
+415,Texas,Scurry,5,7,4
+417,Texas,Shackelford,8,1,6
+419,Texas,Shelby,3,9,2
+423,Texas,Smith,7,10,1
+427,Texas,Starr,10,2,5
+431,Texas,Sterling,5,3,10
+017,Michigan,Bay,10,3,4
+019,Michigan,Benzie,7,9,8
+021,Michigan,Berrien,8,7,5
+027,Michigan,Cass,2,4,7
+031,Michigan,Cheboygan,3,3,5
+033,Michigan,Chippewa,3,9,3
+109,Montana,Wibaux,1,2,9
+007,Nebraska,Banner,1,5,1
+011,Nebraska,Boone,2,3,3
+013,Nebraska,Box Butte,3,8,8
+019,Nebraska,Buffalo,3,6,3
+025,Nebraska,Cass,0,3,7
+029,Nebraska,Chase,0,5,0
+033,Nebraska,Cheyenne,10,8,5
+039,Nebraska,Cuming,7,6,0
+045,Nebraska,Dawes,8,3,8
+051,Nebraska,Dixon,2,8,8
+057,Nebraska,Dundy,5,9,4
+071,Nebraska,Garfield,8,3,9
+075,Nebraska,Grant,0,3,5
+023,Ohio,Clark,3,2,5
+025,Ohio,Clermont,5,10,5
+029,Ohio,Columbiana,7,7,3
+033,Ohio,Crawford,9,0,0
+037,Ohio,Darke,6,6,8
+041,Ohio,Delaware,3,0,9
+043,Ohio,Erie,0,3,0
+049,Ohio,Franklin,9,4,0
+019,New Mexico,Guadalupe,3,9,0
+021,New Mexico,Harding,6,6,4
+025,New Mexico,Lea,3,9,4
+033,New Mexico,Mora,2,7,0
+039,New Mexico,Rio Arriba,4,3,3
+143,Tennessee,Rhea,0,5,1
+147,Tennessee,Robertson,0,8,8
+149,Tennessee,Rutherford,1,1,9
+155,Tennessee,Sevier,0,8,10
+161,Tennessee,Stewart,10,1,2
+167,Tennessee,Tipton,8,9,9
+175,Tennessee,Van Buren,8,3,8
+177,Tennessee,Warren,7,10,3
+055,South Carolina,Kershaw,5,2,2
+061,South Carolina,Lee,8,7,4
+065,South Carolina,McCormick,7,5,8
+071,South Carolina,Newberry,6,5,9
+073,South Carolina,Oconee,9,0,0
+041,Michigan,Delta,8,1,9
+043,Michigan,Dickinson,6,1,10
+047,Michigan,Emmet,9,2,0
+051,Michigan,Gladwin,2,5,5
+065,Michigan,Ingham,10,3,9
+069,Michigan,Iosco,7,0,9
+131,Illinois,Mercer,7,2,0
+191,Georgia,McIntosh,5,5,3
+079,Nebraska,Hall,1,9,0
+081,Nebraska,Hamilton,4,10,8
+083,Nebraska,Harlan,6,7,9
+087,Nebraska,Hitchcock,5,1,4
+099,Nebraska,Kearney,5,8,5
+101,Nebraska,Keith,10,7,7
+105,Nebraska,Kimball,10,2,6
+109,Nebraska,Lancaster,4,7,0
+115,Nebraska,Loup,0,3,5
+119,Nebraska,Madison,2,6,4
+091,Mississippi,Marion,4,6,1
+097,Mississippi,Montgomery,2,4,5
+101,Mississippi,Newton,0,4,8
+109,Mississippi,Pearl River,4,4,7
+119,Mississippi,Quitman,9,10,10
+121,Mississippi,Rankin,5,6,7
+129,Mississippi,Smith,5,3,6
+041,New Mexico,Roosevelt,9,9,9
+043,New Mexico,Sandoval,1,2,5
+049,New Mexico,Santa Fe,2,8,4
+057,New Mexico,Torrance,9,4,10
+061,New Mexico,Valencia,3,2,8
+007,New York,Broome,4,2,3
+011,New York,Cayuga,2,4,5
+013,New York,Chautauqua,5,4,9
+019,New York,Clinton,9,4,5
+027,New York,Dutchess,7,9,0
+033,New York,Franklin,0,7,9
+035,New York,Fulton,4,9,3
+039,New York,Greene,10,0,4
+131,Oklahoma,Rogers,6,6,7
+135,Oklahoma,Sequoyah,1,9,5
+137,Oklahoma,Stephens,2,7,5
+143,Oklahoma,Tulsa,5,3,3
+145,Oklahoma,Wagoner,9,3,5
+149,Oklahoma,Washita,7,1,3
+003,Oregon,Benton,8,6,5
+005,Oregon,Clackamas,6,1,2
+011,Oregon,Coos,7,0,3
+013,Oregon,Crook,2,0,9
+021,Oregon,Gilliam,9,10,5
+027,Oregon,Hood River,10,3,5
+075,Michigan,Jackson,6,9,9
+079,Michigan,Kalkaska,9,4,8
+081,Michigan,Kent,1,3,10
+087,Michigan,Lapeer,5,2,8
+093,Michigan,Livingston,3,3,7
+095,Michigan,Luce,5,0,10
+099,Michigan,Macomb,1,7,0
+101,Michigan,Manistee,6,2,10
+115,Michigan,Monroe,10,4,6
+137,Mississippi,Tate,10,7,10
+141,Mississippi,Tishomingo,9,3,3
+143,Mississippi,Tunica,6,10,9
+153,Mississippi,Wayne,10,3,7
+155,Mississippi,Webster,9,1,1
+157,Mississippi,Wilkinson,0,4,10
+163,Mississippi,Yazoo,3,2,10
+007,Missouri,Audrain,1,5,4
+017,Missouri,Bollinger,1,10,5
+023,Missouri,Butler,8,9,4
+029,Missouri,Camden,1,4,6
+035,Missouri,Carter,4,7,6
+041,Missouri,Chariton,5,7,8
+045,Missouri,Clark,0,0,5
+041,New York,Hamilton,8,3,8
+045,New York,Jefferson,10,6,3
+051,New York,Livingston,4,10,2
+055,New York,Monroe,10,0,1
+059,New York,Nassau,4,4,9
+063,New York,Niagara,8,3,0
+071,New York,Orange,7,10,1
+073,New York,Orleans,8,8,9
+075,New York,Oswego,5,3,8
+435,Texas,Sutton,4,7,8
+437,Texas,Swisher,9,2,3
+441,Texas,Taylor,1,7,3
+447,Texas,Throckmorton,9,4,8
+451,Texas,Tom Green,0,6,9
+453,Texas,Travis,10,6,8
+457,Texas,Tyler,10,10,8
+467,Texas,Van Zandt,4,10,3
+469,Texas,Victoria,9,0,6
+477,Texas,Washington,6,0,7
+483,Texas,Wheeler,2,9,4
+485,Texas,Wichita,2,5,5
+489,Texas,Willacy,6,4,1
+499,Texas,Wood,8,7,1
+001,Utah,Beaver,0,6,5
+007,Utah,Carbon,6,1,6
+071,Michigan,Iron,3,2,4
+125,Michigan,Oakland,10,4,1
+131,Michigan,Ontonagon,8,4,10
+135,Michigan,Oscoda,0,4,2
+145,Michigan,Saginaw,1,5,9
+147,Michigan,St. Clair,2,8,10
+157,Michigan,Tuscola,8,7,7
+047,Missouri,Clay,3,5,6
+051,Missouri,Cole,4,1,10
+055,Missouri,Crawford,5,5,7
+057,Missouri,Dade,6,7,2
+061,Missouri,Daviess,5,7,7
+067,Missouri,Douglas,6,4,0
+073,Missouri,Gasconade,9,3,2
+077,Missouri,Greene,5,8,10
+079,Missouri,Grundy,7,10,3
+087,Missouri,Holt,3,9,2
+011,North Carolina,Avery,4,5,8
+013,North Carolina,Beaufort,1,0,1
+019,North Carolina,Brunswick,5,7,8
+025,North Carolina,Cabarrus,4,8,8
+223,Georgia,Paulding,7,0,5
+081,New York,Queens,0,6,0
+087,New York,Rockland,0,10,3
+089,New York,St. Lawrence,10,4,7
+093,New York,Schenectady,2,10,2
+099,New York,Seneca,9,10,3
+103,New York,Suffolk,1,10,2
+107,New York,Tioga,8,9,6
+117,New York,Wayne,1,3,8
+017,Pennsylvania,Bucks,7,4,1
+023,Pennsylvania,Cameron,0,3,6
+079,South Carolina,Richland,9,6,2
+083,South Carolina,Spartanburg,0,3,8
+085,South Carolina,Sumter,4,7,6
+089,South Carolina,Williamsburg,6,10,1
+005,South Dakota,Beadle,9,6,5
+011,South Dakota,Brookings,9,8,10
+019,South Dakota,Butte,0,9,3
+023,South Dakota,Charles Mix,10,3,3
+033,South Dakota,Custer,6,1,1
+039,South Dakota,Deuel,3,2,0
+041,South Dakota,Dewey,1,2,3
+045,South Dakota,Edmunds,3,5,9
+051,South Dakota,Grant,5,5,6
+059,South Dakota,Hand,1,0,10
+159,Michigan,Van Buren,0,1,6
+163,Michigan,Wayne,9,9,1
+001,Minnesota,Aitkin,6,9,5
+003,Minnesota,Anoka,5,2,5
+011,Minnesota,Big Stone,3,8,5
+017,Minnesota,Carlton,8,4,0
+025,Minnesota,Chisago,9,1,10
+035,Minnesota,Crow Wing,6,1,0
+037,Minnesota,Dakota,3,9,1
+041,Minnesota,Douglas,3,9,9
+043,Minnesota,Faribault,4,10,6
+045,Minnesota,Fillmore,0,6,4
+053,Minnesota,Hennepin,7,7,4
+059,Minnesota,Isanti,7,6,8
+035,North Carolina,Catawba,9,5,9
+037,North Carolina,Chatham,9,1,10
+039,North Carolina,Cherokee,2,7,9
+041,North Carolina,Chowan,7,4,7
+047,North Carolina,Columbus,1,7,6
+059,North Carolina,Davie,2,10,10
+061,North Carolina,Duplin,7,2,1
+065,North Carolina,Edgecombe,6,10,1
+069,North Carolina,Franklin,4,1,2
+071,North Carolina,Gaston,9,5,5
+075,North Carolina,Graham,1,8,6
+077,North Carolina,Granville,8,1,4
+083,North Carolina,Halifax,7,3,9
+087,North Carolina,Haywood,10,7,7
+027,Pennsylvania,Centre,7,6,1
+029,Pennsylvania,Chester,7,10,8
+033,Pennsylvania,Clearfield,4,7,3
+039,Pennsylvania,Crawford,9,3,5
+045,Pennsylvania,Delaware,5,5,10
+049,Pennsylvania,Erie,0,6,1
+051,Pennsylvania,Fayette,5,2,5
+055,Pennsylvania,Franklin,5,3,9
+061,Pennsylvania,Huntingdon,9,10,10
+067,Pennsylvania,Juniata,9,10,6
+073,Pennsylvania,Lawrence,10,3,8
+079,Pennsylvania,Luzerne,6,5,4
+029,Oregon,Jackson,2,2,9
+033,Oregon,Josephine,1,0,6
+039,Oregon,Lane,1,7,8
+043,Oregon,Linn,8,3,6
+049,Oregon,Morrow,3,6,7
+051,Oregon,Multnomah,6,4,9
+059,Oregon,Umatilla,6,4,9
+065,Oregon,Wasco,1,6,5
+071,Oregon,Yamhill,10,7,3
+063,Minnesota,Jackson,1,8,5
+065,Minnesota,Kanabec,6,2,6
+069,Minnesota,Kittson,8,6,10
+105,Missouri,Laclede,9,5,4
+111,Missouri,Lewis,3,5,6
+119,Missouri,McDonald,1,10,5
+125,Missouri,Maries,5,6,1
+129,Missouri,Mercer,9,8,9
+139,Missouri,Montgomery,5,1,7
+141,Missouri,Morgan,2,0,4
+147,Missouri,Nodaway,5,7,9
+153,Missouri,Ozark,8,10,4
+157,Missouri,Perry,6,8,9
+161,Missouri,Phelps,10,7,0
+167,Missouri,Polk,3,5,6
+095,North Carolina,Hyde,3,2,5
+099,North Carolina,Jackson,9,0,3
+105,North Carolina,Lee,10,9,4
+111,North Carolina,McDowell,7,2,7
+115,North Carolina,Madison,4,5,8
+121,North Carolina,Mitchell,1,3,1
+129,North Carolina,New Hanover,8,9,8
+135,North Carolina,Orange,5,4,4
+139,North Carolina,Pasquotank,0,7,10
+143,North Carolina,Perquimans,2,6,10
+147,North Carolina,Pitt,0,1,3
+153,North Carolina,Richmond,0,7,10
+085,Pennsylvania,Mercer,2,7,0
+089,Pennsylvania,Monroe,4,5,5
+095,Pennsylvania,Northampton,10,2,2
+101,Pennsylvania,Philadelphia,0,1,9
+109,Pennsylvania,Snyder,3,1,10
+111,Pennsylvania,Somerset,4,10,9
+115,Pennsylvania,Susquehanna,4,9,6
+119,Pennsylvania,Union,2,10,6
+121,Pennsylvania,Venango,2,4,7
+125,Pennsylvania,Washington,10,2,4
+133,Pennsylvania,York,5,9,6
+009,Utah,Daggett,10,9,3
+013,Utah,Duchesne,8,0,6
+019,Utah,Grand,4,6,6
+023,Utah,Juab,8,10,2
+001,Texas,Anderson,5,4,6
+013,Texas,Atascosa,5,0,8
+015,Texas,Austin,0,8,4
+017,Texas,Bailey,9,1,8
+023,Texas,Baylor,5,5,0
+025,Texas,Bee,10,2,7
+029,Texas,Bexar,3,3,1
+033,Texas,Borden,7,9,4
+035,Texas,Bosque,4,0,1
+039,Texas,Brazoria,0,9,4
+171,Missouri,Putnam,5,7,0
+175,Missouri,Randolph,5,4,8
+177,Missouri,Ray,5,0,5
+181,Missouri,Ripley,1,3,10
+186,Missouri,Ste. Genevieve,6,9,2
+187,Missouri,St. Francois,9,5,5
+197,Missouri,Schuyler,7,8,0
+203,Missouri,Shannon,10,2,1
+207,Missouri,Stoddard,6,2,10
+213,Missouri,Taney,8,3,5
+219,Missouri,Warren,5,8,0
+225,Missouri,Webster,5,2,9
+510,Missouri,St. Louis,3,10,5
+003,Montana,Big Horn,3,6,9
+159,North Carolina,Rowan,5,8,9
+163,North Carolina,Sampson,0,3,9
+169,North Carolina,Stokes,4,7,7
+175,North Carolina,Transylvania,5,2,10
+061,Ohio,Hamilton,6,7,4
+071,Ohio,Highland,4,3,5
+077,Ohio,Huron,7,9,8
+081,Ohio,Jefferson,10,3,7
+087,Ohio,Lawrence,7,9,8
+093,Ohio,Lorain,6,9,10
+099,Ohio,Mahoning,10,0,6
+101,Ohio,Marion,5,9,4
+001,Rhode Island,Bristol,7,0,2
+003,Rhode Island,Kent,4,2,8
+005,Rhode Island,Newport,4,5,8
+001,South Carolina,Abbeville,9,0,5
+003,South Carolina,Aiken,5,4,5
+007,South Carolina,Anderson,9,9,8
+017,South Carolina,Calhoun,7,0,8
+023,South Carolina,Chester,8,5,1
+025,South Carolina,Chesterfield,5,9,8
+063,South Dakota,Harding,10,1,9
+065,South Dakota,Hughes,4,6,2
+069,South Dakota,Hyde,6,5,5
+075,South Dakota,Jones,5,1,4
+079,South Dakota,Lake,4,7,5
+085,South Dakota,Lyman,9,8,0
+093,South Dakota,Meade,2,8,7
+097,South Dakota,Miner,9,2,8
+101,South Dakota,Moody,10,4,0
+113,South Dakota,Shannon,8,8,6
+115,South Dakota,Spink,9,5,4
+117,South Dakota,Stanley,8,6,5
+121,South Dakota,Todd,1,0,7
+127,South Dakota,Union,0,0,1
+005,Montana,Blaine,2,2,5
+009,Montana,Carbon,2,7,4
+015,Montana,Chouteau,6,1,8
+019,Montana,Daniels,0,0,6
+023,Montana,Deer Lodge,10,5,4
+029,Montana,Flathead,3,4,8
+035,Montana,Glacier,2,10,6
+041,Montana,Hill,10,0,10
+129,Nebraska,Nuckolls,3,7,7
+133,Nebraska,Pawnee,9,2,6
+141,Nebraska,Platte,4,1,0
+007,Iowa,Appanoose,9,9,0
+011,Iowa,Benton,6,0,9
+015,Iowa,Boone,3,6,0
+019,Iowa,Buchanan,10,5,0
+023,Iowa,Butler,6,5,2
+027,Iowa,Carroll,6,0,3
+033,Iowa,Cerro Gordo,0,9,9
+081,Illinois,Jefferson,5,8,6
+091,Illinois,Kankakee,6,8,6
+093,Illinois,Kendall,2,5,5
+099,Illinois,LaSalle,3,0,3
+101,Illinois,Lawrence,2,7,7
+105,Illinois,Livingston,7,6,5
+109,Illinois,McDonough,0,2,9
+111,Illinois,McHenry,3,9,5
+117,Illinois,Macoupin,4,2,8
+125,Illinois,Mason,0,5,4
+127,Illinois,Massac,3,6,1
+185,Georgia,Lowndes,7,4,2
+189,Georgia,McDuffie,0,4,6
+195,Georgia,Madison,5,9,4
+199,Georgia,Meriwether,2,1,1
+205,Georgia,Mitchell,9,6,4
+209,Georgia,Montgomery,7,2,8
+213,Georgia,Murray,10,9,2
+221,Georgia,Oglethorpe,1,9,4
+229,Georgia,Pierce,5,4,9
+231,Georgia,Pike,3,2,2
+235,Georgia,Pulaski,3,7,3
+241,Georgia,Rabun,2,2,2
+247,Georgia,Rockdale,5,10,9
+255,Georgia,Spalding,5,2,7
+257,Georgia,Stephens,5,4,1
+267,Georgia,Tattnall,2,3,7
+269,Georgia,Taylor,1,3,9
+183,Kansas,Smith,7,3,4
+187,Kansas,Stanton,10,6,2
+189,Kansas,Stevens,10,1,5
+197,Kansas,Wabaunsee,0,7,7
+207,Kansas,Woodson,0,2,9
+191,Kentucky,Pendleton,6,8,6
+193,Kentucky,Perry,7,5,1
+201,Kentucky,Robertson,5,10,10
+205,Kentucky,Rowan,2,1,2
+207,Kentucky,Russell,0,7,5
+217,Kentucky,Taylor,7,3,8
+221,Kentucky,Trigg,0,3,4
+231,Kentucky,Wayne,9,1,1
+233,Kentucky,Webster,3,2,4
+237,Kentucky,Wolfe,6,7,10
+239,Kentucky,Woodford,6,4,2
+005,Louisiana,Ascension,0,7,5
+091,Louisiana,St. Helena,6,10,0
+093,Louisiana,St. James,7,2,10
+097,Louisiana,St. Landry,3,3,6
+099,Louisiana,St. Martin,4,1,4
+103,Louisiana,St. Tammany,9,4,3
+113,Louisiana,Vermilion,1,3,0
+117,Louisiana,Washington,0,1,10
+011,Kentucky,Bath,5,3,9
+013,Kentucky,Bell,8,4,0
+015,Kentucky,Boone,5,10,10
+027,Kentucky,Breckinridge,0,7,8
+029,Kentucky,Bullitt,1,0,0
+133,Illinois,Monroe,8,4,8
+137,Illinois,Morgan,4,8,5
+141,Illinois,Ogle,2,7,4
+143,Illinois,Peoria,9,8,8
+147,Illinois,Piatt,1,8,7
+153,Illinois,Pulaski,9,3,1
+159,Illinois,Richland,0,8,2
+165,Illinois,Saline,5,3,7
+167,Illinois,Sangamon,1,6,3
+177,Illinois,Stephenson,4,10,2
+183,Illinois,Vermilion,8,4,7
+191,Illinois,Wayne,9,9,3
+195,Illinois,Whiteside,2,5,8
+197,Illinois,Will,10,9,9
+001,Indiana,Adams,4,7,7
+275,Georgia,Thomas,1,3,4
+279,Georgia,Toombs,6,1,0
+281,Georgia,Towns,5,2,6
+289,Georgia,Twiggs,2,2,8
+295,Georgia,Walker,0,8,1
+301,Georgia,Warren,0,5,3
+035,Kansas,Cowley,6,1,4
+041,Kansas,Dickinson,2,5,7
+047,Kansas,Edwards,6,2,5
+051,Kansas,Ellis,3,8,4
+053,Kansas,Ellsworth,7,7,8
+057,Kansas,Ford,1,9,1
+063,Kansas,Gove,7,5,10
+073,Kansas,Greenwood,2,4,7
+077,Kansas,Harper,1,3,1
+079,Kansas,Harvey,9,5,2
+087,Kansas,Jefferson,1,9,9
+011,Louisiana,Beauregard,9,6,2
+015,Louisiana,Bossier,2,0,10
+017,Louisiana,Caddo,6,4,2
+023,Louisiana,Cameron,2,4,10
+031,Louisiana,De Soto,8,9,1
+035,Louisiana,East Carroll,3,1,9
+041,Louisiana,Franklin,10,10,10
+043,Louisiana,Grant,4,1,10
+049,Louisiana,Jackson,5,3,5
+051,Louisiana,Jefferson,0,5,9
+055,Louisiana,Lafayette,7,10,3
+035,Kentucky,Calloway,1,0,0
+039,Kentucky,Carlisle,9,1,10
+041,Kentucky,Carroll,3,10,6
+045,Kentucky,Casey,10,1,1
+057,Kentucky,Cumberland,6,6,3
+065,Kentucky,Estill,5,5,4
+067,Kentucky,Fayette,8,10,9
+071,Kentucky,Floyd,4,9,6
+079,Kentucky,Garrard,9,4,0
+083,Kentucky,Graves,10,10,7
+085,Kentucky,Grayson,10,8,7
+091,Kentucky,Hancock,5,9,4
+097,Kentucky,Harrison,9,4,2
+101,Kentucky,Henderson,7,10,9
+107,Kentucky,Hopkins,4,7,7
+267,Texas,Kimble,3,7,4
+271,Texas,Kinney,3,8,9
+277,Texas,Lamar,9,0,6
+281,Texas,Lampasas,0,1,6
+285,Texas,Lavaca,0,5,9
+287,Texas,Lee,7,7,6
+291,Texas,Liberty,7,7,1
+293,Texas,Limestone,7,0,10
+295,Texas,Lipscomb,4,0,7
+301,Texas,Loving,9,3,8
+305,Texas,Lynn,9,1,6
+307,Texas,McCulloch,3,7,2
+317,Texas,Martin,3,5,7
+323,Texas,Maverick,7,1,6
+327,Texas,Menard,10,6,8
+331,Texas,Milam,4,5,9
+333,Texas,Mills,10,5,10
+800,Virginia,Suffolk,7,9,7
+810,Virginia,Virginia Beach,5,5,6
+840,Virginia,Winchester,4,9,1
+001,Washington,Adams,9,2,10
+003,Washington,Asotin,0,4,0
+005,Washington,Benton,2,3,5
+015,Washington,Cowlitz,5,1,6
+017,Washington,Douglas,2,9,0
+019,Washington,Ferry,0,6,7
+023,Washington,Garfield,9,9,6
+025,Washington,Grant,7,0,4
+600,Virginia,Fairfax,0,4,7
+101,Wisconsin,Racine,3,8,8
+107,Wisconsin,Rusk,0,10,0
+111,Wisconsin,Sauk,1,7,4
+113,Wisconsin,Sawyer,1,2,5
+119,Wisconsin,Taylor,6,4,6
+123,Wisconsin,Vernon,8,0,3
+125,Wisconsin,Vilas,8,7,8
+133,Wisconsin,Waukesha,0,5,4
+139,Wisconsin,Winnebago,4,6,9
+003,Wyoming,Big Horn,10,5,1
+009,Wyoming,Converse,10,6,1
+017,Wyoming,Hot Springs,2,0,0
+019,Wyoming,Johnson,8,1,2
+023,West Virginia,Grant,2,6,8
+025,West Virginia,Greenbrier,3,7,2
+027,West Virginia,Hampshire,1,1,9
+033,West Virginia,Harrison,9,1,1
+037,West Virginia,Jefferson,4,5,8
+045,West Virginia,Logan,5,2,9
+051,West Virginia,Marshall,8,9,6
+053,West Virginia,Mason,3,2,0
+059,West Virginia,Mingo,5,5,10
+065,West Virginia,Morgan,6,2,1
+069,West Virginia,Ohio,3,10,2
+075,West Virginia,Pocahontas,9,8,6
+341,Texas,Moore,1,3,9
+083,West Virginia,Randolph,0,2,6
+087,West Virginia,Roane,5,6,10
+091,West Virginia,Taylor,1,2,4
+093,West Virginia,Tucker,8,0,3
+097,West Virginia,Upshur,7,5,0
+099,West Virginia,Wayne,2,10,0
+103,West Virginia,Wetzel,8,4,7
+105,West Virginia,Wirt,10,9,6
+107,West Virginia,Wood,1,7,3
+011,Wisconsin,Buffalo,4,9,7
+013,Wisconsin,Burnett,10,10,4
+019,Wisconsin,Clark,4,4,8
+021,Wisconsin,Columbia,2,2,2
+023,Wisconsin,Crawford,7,0,2
+029,Washington,Island,0,2,8
+039,Utah,Sanpete,5,10,6
+043,Utah,Summit,10,1,7
+045,Utah,Tooele,5,10,9
+049,Utah,Utah,6,0,5
+057,Utah,Weber,5,8,3
+003,Vermont,Bennington,9,7,3
+007,Vermont,Chittenden,6,7,0
+011,Vermont,Franklin,8,9,4
+015,Vermont,Lamoille,9,10,3
+021,Vermont,Rutland,3,6,0
+023,Wyoming,Lincoln,6,1,9
+005,Virginia,Alleghany,0,6,8
+011,Virginia,Appomattox,7,8,3
+013,Virginia,Arlington,1,7,2
+015,Virginia,Augusta,6,3,3
+019,Virginia,Bedford,1,10,4
+025,Virginia,Brunswick,9,5,10
+031,Virginia,Campbell,10,2,0
+033,Virginia,Caroline,1,7,5
+036,Virginia,Charles City,6,1,10
+045,Virginia,Craig,0,1,3
+049,Virginia,Cumberland,4,6,1
+051,Virginia,Dickenson,1,7,7
+081,West Virginia,Raleigh,6,3,1
+061,Virginia,Fauquier,3,7,10
+067,Virginia,Franklin,8,7,7
+069,Virginia,Frederick,3,5,1
+073,Virginia,Gloucester,2,6,5
+081,Virginia,Greensville,4,10,8
+085,Virginia,Hanover,6,7,10
+091,Virginia,Highland,2,3,4
+095,Virginia,James City,9,3,4
+103,Virginia,Lancaster,9,3,10
+037,Utah,San Juan,8,8,5
+119,Virginia,Middlesex,8,5,8
+027,Unknown State,Camuy,3,3,9
+035,Unknown State,Cayey,1,4,5
+041,Unknown State,Cidra,7,7,6
+043,Unknown State,Coamo,3,0,5
+053,Unknown State,Fajardo,5,7,3
+055,Unknown State,Guánica,9,1,7
+059,Unknown State,Guayanilla,9,9,9
+067,Unknown State,Hormigueros,8,1,1
+073,Unknown State,Jayuya,5,7,1
+025,Vermont,Windham,6,2,10
+005,Unknown State,Aguadilla,3,8,4
+037,Washington,Kittitas,0,0,4
+039,Washington,Klickitat,7,0,7
+059,Washington,Skamania,0,3,6
+075,Washington,Whitman,2,9,8
+017,West Virginia,Doddridge,1,3,7
+029,West Virginia,Hancock,10,5,1
+043,West Virginia,Lincoln,0,5,6
+055,West Virginia,Mercer,3,5,2
+073,West Virginia,Pleasants,0,2,4
+085,West Virginia,Ritchie,8,9,6
+095,West Virginia,Tyler,0,0,6
+057,Virginia,Essex,1,5,10
+079,Unknown State,Lajas,3,0,3
+081,Unknown State,Lares,7,10,2
+089,Unknown State,Luquillo,1,6,0
+095,Unknown State,Maunabo,0,9,9
+101,Unknown State,Morovis,1,4,10
+103,Unknown State,Naguabo,7,10,7
+109,Unknown State,Patillas,0,5,0
+117,Unknown State,Rincón,9,9,1
+119,Unknown State,Río Grande,3,2,1
+125,Unknown State,San Germán,3,1,8
+131,Unknown State,San Sebastián,1,8,10
+137,Unknown State,Toa Baja,10,1,4
+143,Unknown State,Vega Alta,9,7,0
+115,Virginia,Mathews,9,7,5
+095,Louisiana,St. John the Baptist,5,5,0
+111,Louisiana,Union,1,6,5
+001,Kentucky,Adair,3,6,2
+005,Kentucky,Anderson,9,8,10
+007,Kentucky,Ballard,5,1,7
+019,Kentucky,Boyd,0,2,3
+037,Kentucky,Campbell,5,6,1
+049,Kentucky,Clark,3,4,1
+061,Kentucky,Edmonson,0,2,2
+069,Kentucky,Fleming,3,5,8
+081,Kentucky,Grant,3,5,5
+093,Kentucky,Hardin,6,9,8
+109,Kentucky,Jackson,2,7,10
+125,Kentucky,Laurel,5,6,5
+131,Kentucky,Leslie,2,3,3
+075,Unknown State,Juana Díaz,2,1,2
+037,Oklahoma,Creek,1,4,3
+047,Oklahoma,Garfield,9,6,10
+183,North Carolina,Wake,6,5,0
+187,North Carolina,Washington,8,0,3
+003,North Dakota,Barnes,10,7,4
+013,North Dakota,Burke,1,4,8
+025,North Dakota,Dunn,4,3,6
+041,North Dakota,Hettinger,0,1,4
+055,North Dakota,McLean,3,6,8
+069,North Dakota,Pierce,3,0,0
+087,North Dakota,Slope,2,6,4
+095,North Dakota,Towner,0,10,0
+009,Ohio,Athens,6,10,9
+021,Ohio,Champaign,8,5,2
+109,West Virginia,Wyoming,7,6,10
+015,Wisconsin,Calumet,3,3,4
+027,Wisconsin,Dodge,8,9,8
+027,Utah,Millard,9,8,8
+033,Utah,Rich,8,0,6
+041,Utah,Sevier,10,9,6
+055,Utah,Wayne,0,0,0
+013,Vermont,Grand Isle,6,0,5
+003,Virginia,Albemarle,7,9,4
+009,Virginia,Amherst,10,8,3
+023,Virginia,Botetourt,2,6,3
+035,Virginia,Carroll,3,3,2
+053,Virginia,Dinwiddie,1,9,8
+065,Virginia,Fluvanna,4,6,8
+147,Unknown State,Vieques,9,0,5
+151,Unknown State,Yabucoa,5,3,8
+153,Unknown State,Yauco,3,9,2
+003,Alabama,Baldwin,2,2,4
+027,Alabama,Clay,5,2,10
+041,Alabama,Crenshaw,9,0,0
+057,Alabama,Fayette,5,1,2
+073,Alabama,Jefferson,1,7,8
+091,Alabama,Marengo,3,6,9
+103,Alabama,Morgan,9,1,4
+115,Alabama,St. Clair,2,7,2
+129,Alabama,Washington,10,3,4
+147,Kentucky,McCreary,0,5,0
+165,Kentucky,Menifee,7,0,3
+181,Kentucky,Nicholas,8,9,10
+041,Iowa,Clay,9,5,5
+043,Iowa,Clayton,7,8,9
+049,Iowa,Dallas,10,4,3
+057,Iowa,Des Moines,4,5,0
+073,Iowa,Greene,7,8,6
+081,Iowa,Hancock,1,6,10
+091,Iowa,Humboldt,6,2,2
+099,Iowa,Jasper,10,0,5
+115,Iowa,Louisa,0,10,6
+131,Iowa,Mitchell,6,3,8
+147,Iowa,Palo Alto,8,9,2
+157,Iowa,Poweshiek,6,2,7
+165,Iowa,Shelby,0,0,8
+179,Iowa,Wapello,8,1,9
+187,Iowa,Webster,8,3,5
+197,Iowa,Wright,7,9,3
+031,Ohio,Coshocton,4,7,4
+045,Ohio,Fairfield,3,2,9
+013,New Mexico,Doña Ana,4,1,5
+017,New Mexico,Grant,1,7,5
+037,New Mexico,Quay,4,1,8
+059,New Mexico,Union,2,10,4
+017,New York,Chenango,9,7,6
+031,New York,Essex,4,2,2
+049,New York,Lewis,5,6,3
+065,New York,Oneida,4,3,6
+077,New York,Otsego,3,6,6
+079,Virginia,Greene,7,3,6
+129,Florida,Wakulla,0,3,7
+011,Georgia,Banks,0,0,10
+019,Georgia,Berrien,7,0,5
+027,Georgia,Brooks,6,5,6
+033,Georgia,Burke,0,6,1
+039,Georgia,Camden,3,1,7
+051,Georgia,Chatham,5,7,7
+061,Georgia,Clay,1,6,5
+240,Alaska,Southeast Fairbanks,1,5,10
+149,Arkansas,Yell,9,6,9
+011,California,Colusa,0,4,8
+027,California,Inyo,7,8,8
+047,California,Merced,6,6,5
+063,California,Plumas,4,0,8
+077,California,San Joaquin,7,9,9
+091,California,Sierra,6,0,0
+107,California,Tulare,9,1,4
+011,Colorado,Bent,10,5,7
+019,Colorado,Clear Creek,9,1,6
+027,Colorado,Custer,10,10,5
+013,Kansas,Brown,8,7,4
+023,Kansas,Cheyenne,2,0,8
+071,Minnesota,Koochiching,7,0,7
+079,Minnesota,Le Sueur,8,2,8
+087,Minnesota,Mahnomen,3,10,10
+101,Minnesota,Murray,4,7,4
+107,Minnesota,Norman,7,10,8
+125,Minnesota,Red Lake,5,1,1
+131,Minnesota,Rice,4,10,4
+143,Minnesota,Sibley,1,9,3
+159,Minnesota,Wadena,2,7,0
+169,Minnesota,Winona,1,10,7
+007,Mississippi,Attala,1,10,10
+023,Mississippi,Clarke,4,9,8
+035,Mississippi,Forrest,10,9,4
+043,Mississippi,Grenada,9,5,10
+091,New York,Saratoga,0,9,5
+101,New York,Steuben,5,2,5
+113,New York,Warren,10,3,2
+011,Pennsylvania,Berks,10,5,3
+019,Pennsylvania,Butler,0,1,10
+025,Pennsylvania,Carbon,1,1,1
+037,Pennsylvania,Columbia,3,5,9
+053,Pennsylvania,Forest,2,6,6
+057,Pennsylvania,Fulton,4,2,4
+075,Pennsylvania,Lebanon,0,6,1
+081,Pennsylvania,Lycoming,0,9,0
+099,Pennsylvania,Perry,5,2,2
+117,Pennsylvania,Tioga,2,10,10
+131,Pennsylvania,Wyoming,8,8,7
+149,Unknown State,Villalba,3,0,1
+005,Alabama,Barbour,2,4,6
+013,Alabama,Butler,0,0,9
+019,Alabama,Cherokee,1,0,3
+041,California,Marin,9,4,3
+053,California,Monterey,4,9,9
+061,California,Placer,6,1,1
+090,Alaska,Fairbanks North Star,6,8,8
+041,Colorado,El Paso,1,8,0
+049,Colorado,Grand,4,10,3
+085,Florida,Martin,10,0,3
+093,Florida,Okeechobee,1,3,0
+105,Florida,Polk,6,4,6
+121,Florida,Suwannee,10,7,8
+133,Florida,Washington,7,10,6
+007,Georgia,Baker,10,1,8
+021,Georgia,Bibb,9,10,10
+035,Georgia,Butts,8,4,4
+047,Georgia,Catoosa,4,5,5
+065,Georgia,Clinch,3,6,0
+075,Georgia,Cook,0,3,10
+057,Mississippi,Itawamba,8,0,2
+069,Mississippi,Kemper,4,4,7
+119,Louisiana,Webster,4,0,2
+125,Louisiana,West Feliciana,7,1,1
+017,Maine,Oxford,7,0,6
+015,Maryland,Cecil,3,5,0
+027,Maryland,Howard,1,4,3
+001,Massachusetts,Barnstable,0,2,7
+003,Massachusetts,Berkshire,9,3,5
+027,Massachusetts,Worcester,3,2,2
+025,Michigan,Calhoun,1,1,6
+039,Michigan,Crawford,10,0,5
+049,Michigan,Genesee,9,3,10
+007,Rhode Island,Providence,7,1,0
+021,South Carolina,Cherokee,7,9,0
+033,South Carolina,Dillon,0,3,2
+045,South Carolina,Greenville,10,7,4
+009,Tennessee,Blount,0,4,0
+019,Tennessee,Carter,7,1,1
+037,Tennessee,Davidson,7,8,7
+051,Tennessee,Franklin,8,5,5
+063,Tennessee,Hamblen,9,4,0
+075,Tennessee,Haywood,4,6,4
+085,Tennessee,Humphreys,2,1,2
+099,Tennessee,Lawrence,0,7,10
+113,Tennessee,Madison,4,1,10
+127,Tennessee,Moore,7,6,2
+019,California,Fresno,6,9,1
+023,California,Humboldt,10,5,2
+035,California,Lassen,8,10,4
+037,California,Los Angeles,10,5,8
+085,Georgia,Dawson,10,5,0
+099,Georgia,Early,7,1,5
+117,Georgia,Forsyth,5,9,5
+051,Colorado,Gunnison,5,10,10
+055,Colorado,Huerfano,9,4,7
+065,Colorado,Lake,8,0,6
+079,Colorado,Mineral,8,8,0
+089,Colorado,Otero,3,10,7
+101,Colorado,Pueblo,0,5,9
+117,Colorado,Summit,0,7,4
+005,Connecticut,Litchfield,6,2,8
+007,Florida,Bradford,2,0,1
+019,Florida,Clay,6,10,9
+027,Florida,DeSoto,5,4,3
+035,Florida,Flagler,0,6,0
+059,Michigan,Hillsdale,0,1,10
+063,Michigan,Huron,0,1,1
+113,Michigan,Missaukee,2,7,3
+119,Michigan,Montmorency,2,7,6
+129,Michigan,Ogemaw,10,2,7
+137,Michigan,Otsego,2,10,7
+149,Michigan,St. Joseph,9,10,7
+005,Minnesota,Becker,2,2,4
+013,Minnesota,Blue Earth,0,7,10
+023,Minnesota,Chippewa,1,6,7
+033,Minnesota,Cottonwood,3,5,8
+047,Minnesota,Freeborn,8,2,9
+061,Minnesota,Itasca,3,1,2
+095,Missouri,Jackson,1,0,8
+133,Tennessee,Overton,1,1,10
+145,Tennessee,Roane,0,7,10
+159,Tennessee,Smith,3,10,0
+165,Tennessee,Sumner,10,4,8
+047,South Carolina,Greenwood,0,7,8
+051,South Carolina,Horry,1,4,5
+059,South Carolina,Laurens,1,2,6
+069,South Carolina,Marlboro,0,8,8
+087,South Carolina,Union,1,6,1
+015,South Dakota,Brule,2,1,2
+025,South Dakota,Clark,1,9,4
+037,South Dakota,Day,9,6,10
+049,South Dakota,Faulk,2,8,7
+057,South Dakota,Hamlin,2,1,7
+067,South Dakota,Hutchinson,6,7,5
+077,South Dakota,Kingsbury,2,10,6
+097,Virginia,King and Queen,5,10,7
+109,Virginia,Louisa,3,6,6
+035,Alabama,Conecuh,6,9,3
+039,Alabama,Covington,5,3,0
+049,Alabama,DeKalb,2,1,0
+053,Alabama,Escambia,8,9,0
+063,Alabama,Greene,1,10,1
+069,Alabama,Houston,3,6,2
+075,Alabama,Lamar,4,3,6
+077,Alabama,Lauderdale,10,10,10
+047,Florida,Hamilton,3,7,0
+067,Florida,Lafayette,8,6,9
+077,Florida,Liberty,6,7,5
+001,Arizona,Apache,7,5,1
+007,Arizona,Gila,8,4,10
+019,Arizona,Pima,8,9,5
+011,Arkansas,Bradley,8,6,8
+023,Arkansas,Cleburne,8,5,1
+037,Arkansas,Cross,8,2,7
+039,Arkansas,Dallas,4,0,4
+055,Arkansas,Greene,7,0,10
+065,Arkansas,Izard,2,1,5
+079,Arkansas,Lincoln,6,8,8
+099,Missouri,Jefferson,2,9,6
+115,Missouri,Linn,3,10,4
+121,Missouri,Macon,1,8,1
+135,Missouri,Moniteau,10,1,2
+145,Missouri,Newton,10,10,9
+163,Missouri,Pike,1,6,5
+173,Missouri,Ralls,7,6,5
+185,Missouri,St. Clair,6,10,9
+201,Missouri,Scott,5,8,1
+215,Missouri,Texas,8,6,7
+223,Missouri,Wayne,0,3,3
+007,Montana,Broadwater,4,7,8
+021,Montana,Dawson,6,10,2
+031,Montana,Gallatin,6,10,7
+091,South Dakota,Marshall,3,4,4
+107,South Dakota,Potter,6,8,3
+119,South Dakota,Sully,7,4,2
+129,South Dakota,Walworth,1,0,1
+057,Oklahoma,Harmon,9,5,2
+061,Oklahoma,Haskell,0,6,5
+069,Oklahoma,Johnston,0,10,3
+075,Oklahoma,Kiowa,4,5,3
+093,Oklahoma,Major,10,2,3
+103,Oklahoma,Noble,4,8,8
+115,Oklahoma,Ottawa,0,0,1
+133,Oklahoma,Seminole,0,10,0
+141,Oklahoma,Tillman,7,2,1
+009,Oregon,Columbia,7,0,9
+067,California,Sacramento,5,1,4
+071,California,San Bernardino,5,9,4
+111,California,Ventura,0,1,7
+005,Colorado,Arapahoe,6,2,8
+109,Arkansas,Pike,7,4,9
+117,Arkansas,Prairie,8,4,2
+135,Arkansas,Sharp,8,8,5
+307,Georgia,Webster,1,4,6
+311,Georgia,White,3,3,10
+315,Georgia,Wilcox,0,3,7
+005,Hawaii,Kalawao,3,1,2
+005,Idaho,Bannock,3,6,8
+027,Idaho,Canyon,4,5,2
+039,Idaho,Elmore,2,8,10
+063,Idaho,Lincoln,6,3,2
+075,Idaho,Payette,9,4,2
+001,Illinois,Adams,8,4,4
+017,Illinois,Cass,6,10,7
+047,Montana,Lake,7,0,1
+123,Nebraska,Morrill,2,8,4
+127,Nebraska,Nemaha,1,0,8
+143,Nebraska,Polk,1,4,4
+153,Nebraska,Sarpy,7,7,2
+167,Nebraska,Stanton,2,2,0
+179,Nebraska,Wayne,1,0,4
+185,Nebraska,York,2,1,0
+011,Nevada,Eureka,7,6,1
+027,Nevada,Pershing,2,0,2
+005,New Hampshire,Cheshire,2,8,9
+017,New Hampshire,Strafford,8,0,5
+027,New Jersey,Morris,3,9,0
+037,New Jersey,Sussex,6,6,10
+023,Oregon,Grant,10,6,10
+047,Oregon,Marion,7,1,1
+061,Oregon,Union,5,0,2
+009,Pennsylvania,Bedford,4,4,6
+355,Texas,Nueces,10,1,6
+363,Texas,Palo Pinto,7,6,7
+373,Texas,Polk,8,4,9
+389,Texas,Reeves,1,6,9
+405,Texas,San Augustine,0,0,9
+413,Texas,Schleicher,6,0,4
+421,Texas,Sherman,9,4,3
+439,Texas,Tarrant,0,6,6
+455,Texas,Trinity,3,5,7
+471,Texas,Walker,3,8,5
+083,Georgia,Dade,9,5,1
+089,Georgia,DeKalb,3,6,6
+097,Georgia,Douglas,7,7,1
+105,Georgia,Elbert,3,7,2
+111,Georgia,Fannin,5,8,0
+121,Georgia,Fulton,4,2,6
+067,Colorado,La Plata,3,6,6
+071,Colorado,Las Animas,9,1,2
+095,Arkansas,Monroe,3,10,10
+025,Illinois,Clay,2,4,7
+039,Illinois,De Witt,0,1,4
+045,Illinois,Edgar,8,2,9
+061,Illinois,Greene,5,6,5
+069,Illinois,Hardin,7,2,8
+049,Indiana,Fulton,2,4,3
+053,Indiana,Grant,0,5,5
+063,Indiana,Hendricks,1,10,6
+075,Indiana,Jay,10,7,7
+093,Indiana,Lawrence,9,10,0
+099,Indiana,Marshall,1,1,1
+113,Indiana,Noble,10,1,2
+119,Indiana,Owen,2,1,9
+133,Indiana,Putnam,6,0,7
+145,Indiana,Shelby,1,3,8
+157,Indiana,Tippecanoe,10,6,9
+011,New Mexico,De Baca,4,0,8
+049,Montana,Lewis and Clark,6,9,0
+053,Montana,Lincoln,1,10,4
+075,Montana,Powder River,6,9,4
+085,Montana,Roosevelt,1,2,6
+001,Nebraska,Adams,0,9,5
+005,Nebraska,Arthur,0,8,1
+017,Nebraska,Brown,3,1,7
+027,Nebraska,Cedar,9,1,1
+041,Nebraska,Custer,2,10,4
+059,Nebraska,Fillmore,10,9,2
+069,Nebraska,Garden,6,7,9
+077,Nebraska,Greeley,9,4,3
+089,Nebraska,Holt,5,1,9
+481,Texas,Wharton,0,9,9
+493,Texas,Wilson,7,7,9
+503,Texas,Young,0,1,9
+005,Utah,Cache,3,3,1
+017,Utah,Garfield,0,4,3
+183,Tennessee,Weakley,1,3,5
+187,Tennessee,Williamson,5,0,10
+003,Texas,Andrews,5,5,6
+019,Texas,Bandera,6,5,8
+027,Texas,Bell,0,5,7
+041,Texas,Brazos,1,8,3
+059,Texas,Callahan,6,9,3
+075,Texas,Childress,2,2,6
+083,Texas,Coleman,5,2,1
+089,Texas,Colorado,1,4,8
+100,Alaska,Haines,6,5,7
+170,Alaska,Matanuska-Susitna,2,10,7
+001,California,Alameda,9,5,3
+105,Alabama,Perry,4,0,3
+111,Alabama,Randolph,10,8,5
+113,Alabama,Russell,0,2,3
+123,Alabama,Tallapoosa,3,5,10
+165,Indiana,Vermillion,9,5,8
+003,Iowa,Adams,7,6,9
+013,Iowa,Black Hawk,3,6,7
+025,Iowa,Calhoun,6,7,0
+035,Iowa,Cherokee,5,6,0
+071,Illinois,Henderson,9,10,10
+075,Illinois,Iroquois,8,10,10
+087,Illinois,Johnson,1,5,3
+095,Illinois,Knox,5,7,8
+113,Illinois,McLean,8,8,6
+123,Illinois,Marshall,3,5,10
+135,Illinois,Montgomery,9,7,5
+151,Illinois,Pope,6,5,5
+163,Illinois,St. Clair,0,9,2
+187,Illinois,Warren,9,3,10
+199,Illinois,Williamson,3,7,2
+107,Nebraska,Knox,8,0,8
+077,Mississippi,Lawrence,6,0,0
+081,Mississippi,Lee,10,6,5
+085,Mississippi,Lincoln,10,10,2
+087,Mississippi,Lowndes,6,5,9
+107,Mississippi,Panola,5,5,0
+123,Mississippi,Scott,3,5,10
+133,Mississippi,Sunflower,4,6,8
+145,Mississippi,Union,2,4,7
+159,Mississippi,Winston,4,10,0
+003,Missouri,Andrew,7,0,0
+015,Missouri,Benton,2,2,1
+027,Missouri,Callaway,9,7,10
+039,Missouri,Cedar,7,5,6
+049,Missouri,Clinton,4,10,4
+059,Missouri,Dallas,9,0,7
+071,Missouri,Franklin,4,5,2
+107,Texas,Crosby,4,0,7
+119,Texas,Delta,7,9,4
+131,Texas,Duval,10,6,4
+143,Texas,Erath,2,6,5
+153,Texas,Floyd,1,1,3
+163,Texas,Frio,2,6,3
+171,Texas,Gillespie,0,7,1
+173,Texas,Glasscock,1,3,4
+175,Texas,Goliad,10,1,5
+183,Texas,Gregg,9,4,5
+187,Texas,Guadalupe,10,8,2
+205,Texas,Hartley,0,4,1
+209,Texas,Hays,9,1,6
+219,Texas,Hockley,0,2,10
+231,Texas,Hunt,6,10,8
+241,Texas,Jasper,5,6,7
+255,Texas,Karnes,2,0,4
+269,Texas,King,9,3,2
+279,Texas,Lamb,2,8,8
+289,Texas,Leon,1,1,7
+033,Colorado,Dolores,9,8,0
+039,Colorado,Elbert,4,7,8
+045,Colorado,Garfield,0,8,8
+079,California,San Luis Obispo,6,0,5
+093,California,Siskiyou,3,8,9
+097,California,Sonoma,9,6,1
+105,California,Trinity,6,0,10
+017,California,El Dorado,1,2,3
+005,Indiana,Bartholomew,5,1,6
+017,Indiana,Cass,10,2,1
+027,Indiana,Daviess,10,6,1
+041,Indiana,Fayette,1,2,9
+043,Indiana,Floyd,4,0,1
+127,Georgia,Glynn,5,4,0
+133,Georgia,Greene,4,4,6
+143,Georgia,Haralson,5,8,1
+153,Georgia,Houston,6,8,3
+163,Georgia,Jefferson,5,2,9
+183,Georgia,Long,2,1,1
+193,Georgia,Macon,0,1,8
+207,Georgia,Monroe,4,2,2
+219,Georgia,Oconee,7,5,7
+227,Georgia,Pickens,7,1,4
+237,Georgia,Putnam,3,8,9
+249,Georgia,Schley,3,7,5
+083,Missouri,Henry,7,4,7
+093,Missouri,Iron,4,6,6
+003,North Carolina,Alexander,3,2,8
+007,North Carolina,Anson,1,8,10
+009,North Carolina,Ashe,10,6,9
+033,North Carolina,Caswell,4,8,8
+045,North Carolina,Cleveland,2,8,4
+063,North Carolina,Durham,10,6,2
+073,North Carolina,Gates,4,10,0
+085,North Carolina,Harnett,3,10,3
+097,North Carolina,Iredell,6,0,0
+109,North Carolina,Lincoln,0,0,6
+123,North Carolina,Montgomery,9,4,4
+133,North Carolina,Onslow,10,4,2
+145,North Carolina,Person,8,7,2
+299,Texas,Llano,2,3,10
+313,Texas,Madison,3,2,8
+325,Texas,Medina,7,2,4
+335,Texas,Mitchell,2,8,4
+343,Texas,Morris,2,3,10
+127,Virginia,New Kent,7,5,6
+133,Virginia,Northumberland,7,3,8
+167,Virginia,Russell,1,10,9
+179,Virginia,Stafford,6,2,5
+515,Virginia,Bedford,2,5,0
+590,Virginia,Danville,0,0,0
+620,Virginia,Franklin,8,2,3
+680,Virginia,Lynchburg,4,5,10
+720,Virginia,Norton,7,7,1
+740,Virginia,Portsmouth,9,6,1
+830,Virginia,Williamsburg,10,6,10
+086,Florida,Miami-Dade,9,0,4
+103,Florida,Pinellas,6,9,4
+123,Florida,Taylor,6,1,2
+259,Georgia,Stewart,9,10,9
+271,Georgia,Telfair,6,5,8
+283,Georgia,Treutlen,4,8,3
+297,Georgia,Walton,3,9,4
+025,Kansas,Clark,3,4,4
+031,Kansas,Coffey,0,9,10
+033,Kansas,Comanche,0,4,6
+045,Kansas,Douglas,7,2,8
+055,Kansas,Finney,1,6,0
+069,Kansas,Gray,2,1,8
+081,Kansas,Haskell,6,0,7
+093,Kansas,Kearny,6,1,7
+101,Kansas,Lane,10,7,10
+111,Kansas,Lyon,7,8,10
+123,Kansas,Mitchell,8,5,4
+133,Kansas,Neosho,5,1,3
+139,Kansas,Osage,5,9,2
+151,Kansas,Pratt,4,2,8
+159,Kansas,Rice,1,5,8
+169,Kansas,Saline,5,5,1
+157,North Carolina,Rockingham,10,8,8
+173,North Carolina,Swain,3,0,5
+179,North Carolina,Union,3,3,2
+059,Ohio,Guernsey,2,7,10
+069,Ohio,Henry,5,10,0
+083,Ohio,Knox,8,4,8
+091,Ohio,Logan,3,9,3
+103,Ohio,Medina,7,8,2
+115,Ohio,Morgan,7,1,5
+127,Ohio,Perry,3,5,2
+137,Ohio,Putnam,5,7,10
+153,Ohio,Summit,10,0,5
+165,Ohio,Warren,10,0,2
+005,Oklahoma,Atoka,6,8,7
+015,Oklahoma,Caddo,4,1,0
+027,Oklahoma,Cleveland,8,6,1
+011,Washington,Clark,10,0,2
+035,Washington,Kitsap,9,2,3
+053,Wisconsin,Jackson,2,9,1
+067,Wisconsin,Langlade,9,4,5
+078,Wisconsin,Menominee,3,5,0
+087,Wisconsin,Outagamie,0,4,2
+099,Wisconsin,Price,6,2,5
+109,Wisconsin,St. Croix,5,1,1
+121,Wisconsin,Trempealeau,8,7,3
+135,Wisconsin,Waupaca,0,10,2
+005,Wyoming,Campbell,4,5,5
+015,Wyoming,Goshen,0,0,3
+041,Wyoming,Uinta,3,2,3
+127,Alabama,Walker,1,1,7
+133,Alabama,Winston,10,3,3
+016,Alaska,Aleutians West,1,1,2
+060,Alaska,Bristol Bay,0,5,6
+017,Unknown State,Barceloneta,10,1,1
+021,Unknown State,Bayamón,4,4,2
+029,Unknown State,Canóvanas,3,4,6
+039,Unknown State,Ciales,5,1,5
+051,Unknown State,Dorado,10,9,3
+063,Unknown State,Gurabo,4,5,4
+077,Unknown State,Juncos,7,2,1
+085,Unknown State,Las Piedras,6,5,8
+099,Unknown State,Moca,4,8,9
+111,Unknown State,Peñuelas,3,7,9
+123,Unknown State,Salinas,6,9,7
+139,Unknown State,Trujillo Alto,10,7,2
+179,Kansas,Sheridan,7,7,9
+191,Kansas,Sumner,0,7,5
+209,Kansas,Wyandotte,4,10,9
+185,Kentucky,Oldham,0,6,5
+197,Kentucky,Powell,5,3,2
+203,Kentucky,Rockcastle,4,2,10
+215,Kentucky,Spencer,3,3,0
+227,Kentucky,Warren,6,10,0
+235,Kentucky,Whitley,1,0,7
+007,Louisiana,Assumption,8,10,8
+021,Louisiana,Caldwell,1,2,9
+025,Louisiana,Catahoula,8,7,8
+047,Louisiana,Iberville,6,2,9
+059,Louisiana,La Salle,1,7,9
+067,Louisiana,Morehouse,6,10,10
+083,Louisiana,Richland,1,7,0
+101,Texas,Cottle,3,5,3
+105,Texas,Crockett,6,0,3
+109,Texas,Culberson,9,0,6
+111,Texas,Dallam,8,3,0
+113,Texas,Dallas,2,4,2
+121,Texas,Denton,9,3,8
+125,Texas,Dickens,2,5,7
+133,Texas,Eastland,2,2,9
+139,Texas,Ellis,7,5,3
+145,Texas,Falls,5,4,9
+147,Texas,Fannin,3,10,8
+151,Texas,Fisher,2,9,4
+157,Texas,Fort Bend,3,10,9
+181,Texas,Grayson,10,2,2
+189,Texas,Hale,2,1,5
+193,Texas,Hamilton,0,4,5
+345,Texas,Motley,7,3,5
+347,Texas,Nacogdoches,4,5,1
+351,Texas,Newton,3,10,1
+135,Virginia,Nottoway,2,1,0
+137,Virginia,Orange,5,3,0
+139,Virginia,Page,3,5,0
+143,Virginia,Pittsylvania,6,7,8
+153,Virginia,Prince William,2,4,5
+163,Virginia,Rockbridge,6,2,6
+169,Virginia,Scott,2,2,2
+171,Virginia,Shenandoah,8,0,3
+181,Virginia,Surry,9,5,2
+183,Virginia,Sussex,5,4,8
+033,Washington,King,6,7,6
+035,Wisconsin,Eau Claire,7,5,0
+037,Wisconsin,Florence,7,2,3
+041,Wisconsin,Forest,0,6,2
+043,Wisconsin,Grant,6,10,1
+047,Wisconsin,Green Lake,4,1,0
+049,Wisconsin,Iowa,5,10,9
+055,Wisconsin,Jefferson,7,10,10
+057,Wisconsin,Juneau,7,2,2
+059,Wisconsin,Kenosha,6,5,7
+027,Wyoming,Niobrara,9,1,6
+029,Wyoming,Park,6,0,9
+035,Wyoming,Sublette,8,8,5
+037,Wyoming,Sweetwater,8,3,10
+043,Wyoming,Washakie,3,4,5
+001,Unknown State,Adjuntas,9,0,5
+007,Unknown State,Aguas Buenas,9,5,5
+011,Unknown State,Añasco,3,8,4
+043,Washington,Lincoln,4,0,7
+051,Washington,Pend Oreille,7,9,1
+053,Washington,Pierce,9,0,7
+197,Texas,Hardeman,6,6,10
+199,Texas,Hardin,9,0,8
+201,Texas,Harris,10,8,8
+203,Texas,Harrison,10,10,5
+211,Texas,Hemphill,1,2,9
+213,Texas,Henderson,9,2,5
+215,Texas,Hidalgo,9,1,6
+223,Texas,Hopkins,9,5,0
+235,Texas,Irion,6,3,0
+237,Texas,Jack,1,3,8
+239,Texas,Jackson,10,7,10
+243,Texas,Jeff Davis,4,1,2
+249,Texas,Jim Wells,8,7,1
+253,Texas,Jones,4,7,3
+259,Texas,Kendall,5,0,0
+185,Virginia,Tazewell,6,4,6
+191,Virginia,Washington,5,10,6
+195,Virginia,Wise,10,3,3
+520,Virginia,Bristol,3,6,7
+550,Virginia,Chesapeake,1,5,2
+580,Virginia,Covington,8,1,5
+610,Virginia,Falls Church,3,5,0
+640,Virginia,Galax,0,7,0
+678,Virginia,Lexington,5,10,9
+683,Virginia,Manassas,5,8,5
+685,Virginia,Manassas Park,1,5,1
+710,Virginia,Norfolk,9,9,1
+730,Virginia,Petersburg,10,2,7
+750,Virginia,Radford,3,4,7
+790,Virginia,Staunton,8,3,2
+065,Wisconsin,Lafayette,7,0,4
+075,Wisconsin,Marinette,6,8,10
+077,Wisconsin,Marquette,9,10,1
+083,Wisconsin,Oconto,6,0,5
+085,Wisconsin,Oneida,3,0,4
+091,Wisconsin,Pepin,5,4,0
+093,Wisconsin,Pierce,0,3,4
+097,Wisconsin,Portage,4,4,4
+063,Washington,Spokane,2,6,1
+067,Washington,Thurston,3,8,7
+069,Washington,Wahkiakum,9,2,7
+077,Washington,Yakima,1,1,10
+003,West Virginia,Berkeley,5,9,9
+005,West Virginia,Boone,3,8,3
+009,West Virginia,Brooke,10,7,3
+011,West Virginia,Cabell,6,5,8
+015,West Virginia,Clay,9,1,0
+019,West Virginia,Fayette,3,10,1
+037,Florida,Franklin,9,10,4
+057,Florida,Hillsborough,8,5,8
+065,Florida,Jefferson,3,6,9
+093,Colorado,Park,1,4,4
+099,Colorado,Prowers,1,9,5
+107,Colorado,Routt,7,7,8
+113,Colorado,San Miguel,5,2,5
+115,Colorado,Sedgwick,0,7,1
+125,Arkansas,Saline,0,10,5
+131,Arkansas,Sebastian,9,9,3
+139,Arkansas,Union,9,5,8
+290,Alaska,Yukon-Koyukuk,10,10,4
+171,Indiana,Warren,9,10,3
+177,Indiana,Wayne,8,4,8
+005,Iowa,Allamakee,4,7,0
+059,Illinois,Gallatin,7,2,5
+067,Illinois,Hancock,2,2,10
+061,Indiana,Harrison,3,6,7
+073,Indiana,Jasper,7,3,4
+081,Indiana,Johnson,7,5,7
+083,Indiana,Knox,10,5,8
+089,Indiana,Lake,9,3,9
+107,Indiana,Montgomery,8,1,1
+121,Kansas,Miami,9,3,7
+129,Kansas,Morton,2,1,3
+137,Kansas,Norton,10,3,3
+147,Kansas,Phillips,3,10,0
+153,Kansas,Rawlins,9,5,1
+161,Kansas,Riley,1,5,5
+175,Kansas,Seward,3,9,4
+065,Louisiana,Madison,5,3,9
+001,Connecticut,Fairfield,10,10,6
+021,Arkansas,Clay,8,0,10
+119,Kentucky,Knott,4,2,9
+127,Kentucky,Lawrence,0,7,3
+133,Kentucky,Letcher,4,4,10
+141,Kentucky,Logan,1,4,8
+149,Kentucky,McLean,5,8,1
+155,Kentucky,Marion,7,4,3
+015,Arizona,Mohave,3,2,1
+163,Kentucky,Meade,9,1,3
+177,Kentucky,Muhlenberg,1,8,7
+051,Iowa,Davis,2,5,8
+065,Iowa,Fayette,8,8,1
+071,Iowa,Fremont,7,5,7
+083,Iowa,Hardin,8,1,0
+085,Iowa,Harrison,8,4,2
+097,Iowa,Jackson,8,4,10
+109,Iowa,Kossuth,4,8,3
+111,Indiana,Newton,5,8,9
+119,Iowa,Lyon,0,8,7
+133,Iowa,Monona,2,4,4
+143,Iowa,Osceola,3,0,9
+167,Iowa,Sioux,9,10,3
+173,Iowa,Taylor,5,6,7
+185,Iowa,Wayne,10,4,10
+191,Iowa,Winneshiek,5,1,5
+001,Kansas,Allen,2,9,1
+007,Kansas,Barber,9,10,8
+011,Kansas,Bourbon,4,1,3
+071,Louisiana,Orleans,4,4,9
+075,Minnesota,Lake,9,8,1
+161,Kentucky,Mason,2,8,6
+123,Minnesota,Ramsey,8,2,3
+135,Minnesota,Roseau,6,8,8
+151,Minnesota,Swift,4,4,9
+155,Minnesota,Traverse,6,4,8
+165,Minnesota,Watonwan,4,6,1
+167,Minnesota,Wilkin,0,7,0
+173,Minnesota,Yellow Medicine,8,3,7
+001,Mississippi,Adams,9,9,0
+019,Mississippi,Choctaw,7,4,6
+025,Mississippi,Clay,10,2,2
+027,Mississippi,Coahoma,7,8,2
+117,Iowa,Lucas,7,2,7
+053,North Carolina,Currituck,4,3,1
+079,North Carolina,Greene,1,9,6
+089,North Carolina,Henderson,8,3,8
+035,Pennsylvania,Clinton,6,8,10
+041,Pennsylvania,Cumberland,5,8,8
+021,Kansas,Cherokee,1,3,6
+055,Mississippi,Issaquena,4,5,9
+063,Mississippi,Jefferson,9,0,6
+071,Mississippi,Lafayette,1,10,3
+001,Maine,Androscoggin,0,7,2
+003,Maine,Aroostook,3,0,1
+087,Louisiana,St. Bernard,5,5,2
+015,North Dakota,Burleigh,6,5,7
+021,North Dakota,Dickey,9,2,6
+023,North Dakota,Divide,9,8,8
+033,North Dakota,Golden Valley,5,10,0
+049,North Dakota,McHenry,10,4,5
+047,Mississippi,Harrison,3,10,7
+105,Mississippi,Oktibbeha,1,9,4
+111,Mississippi,Perry,4,9,8
+113,Mississippi,Pike,8,9,5
+125,Mississippi,Sharkey,5,8,1
+131,Mississippi,Stone,8,4,2
+047,New Mexico,San Miguel,1,4,5
+051,New Mexico,Sierra,6,4,0
+055,New Mexico,Taos,3,3,0
+001,New York,Albany,0,6,3
+005,New York,Bronx,9,2,3
+043,Pennsylvania,Dauphin,8,7,3
+059,Pennsylvania,Greene,4,10,2
+065,Pennsylvania,Jefferson,4,9,8
+071,Pennsylvania,Lancaster,10,9,5
+077,Pennsylvania,Lehigh,2,1,0
+083,Pennsylvania,McKean,5,10,3
+035,Oregon,Klamath,8,7,0
+005,Maine,Cumberland,3,8,6
+029,South Carolina,Colleton,0,10,0
+041,South Carolina,Florence,9,1,5
+043,South Carolina,Georgetown,1,6,5
+023,Tennessee,Chester,0,0,6
+051,North Dakota,McIntosh,8,6,2
+057,North Dakota,Mercer,4,8,7
+067,Oklahoma,Jefferson,7,9,1
+077,Oklahoma,Latimer,9,7,5
+079,Oklahoma,Le Flore,2,5,9
+089,Oklahoma,McCurtain,8,9,6
+095,Oklahoma,Marshall,9,6,0
+105,Oklahoma,Nowata,9,4,5
+113,Oklahoma,Osage,9,5,3
+015,New York,Chemung,2,9,6
+023,New York,Cortland,3,3,3
+025,New York,Delaware,2,10,9
+029,New York,Erie,3,7,6
+139,Oklahoma,Texas,2,0,8
+151,Oklahoma,Woods,9,3,5
+001,Oregon,Baker,8,9,10
+007,Oregon,Clatsop,8,8,0
+041,Oregon,Lincoln,9,2,4
+139,Nebraska,Pierce,0,7,6
+145,Nebraska,Red Willow,5,1,10
+029,Iowa,Cass,6,9,5
+037,Iowa,Chickasaw,8,8,4
+083,Illinois,Jersey,3,6,7
+085,Illinois,Jo Daviess,9,8,1
+097,Illinois,Lake,2,6,8
+115,Illinois,Macon,6,8,9
+119,Illinois,Madison,9,5,2
+039,Tennessee,Decatur,8,3,10
+043,Tennessee,Dickson,6,6,10
+053,Tennessee,Gibson,6,4,9
+055,Tennessee,Giles,9,5,10
+013,Maine,Knox,8,10,7
+019,Maine,Penobscot,2,2,1
+025,Maine,Somerset,8,7,7
+121,Oklahoma,Pittsburg,0,10,6
+129,Oklahoma,Roger Mills,9,6,10
+045,Maryland,Wicomico,7,5,2
+025,Massachusetts,Suffolk,9,7,3
+001,Michigan,Alcona,10,5,2
+015,Oregon,Curry,2,9,10
+025,Oregon,Harney,4,5,5
+089,Michigan,Leelanau,6,0,8
+105,Michigan,Mason,9,2,7
+147,Mississippi,Walthall,6,5,2
+107,Pennsylvania,Schuylkill,5,6,4
+127,Pennsylvania,Wayne,7,0,3
+129,Pennsylvania,Westmoreland,6,5,7
+015,Utah,Emery,2,7,10
+021,Utah,Iron,0,5,4
+025,Utah,Kane,6,9,7
+029,Tennessee,Cocke,6,2,0
+027,Maine,Waldo,5,9,9
+157,Nebraska,Scotts Bluff,6,3,9
+165,Nebraska,Sioux,8,0,2
+175,Nebraska,Valley,7,6,3
+177,Nebraska,Washington,1,1,6
+001,Nevada,Churchill,1,7,8
+003,Nevada,Clark,7,8,7
+011,Michigan,Arenac,10,0,1
+067,Montana,Park,5,10,4
+073,Montana,Pondera,8,4,5
+079,Montana,Prairie,9,2,10
+081,Montana,Ravalli,0,5,9
+089,Montana,Sanders,1,2,6
+095,Montana,Stillwater,7,3,3
+109,Michigan,Menominee,3,2,7
+149,Mississippi,Warren,9,8,8
+161,Mississippi,Yalobusha,7,0,2
+005,Missouri,Atchison,1,0,6
+011,Missouri,Barton,8,8,0
+019,Missouri,Boone,8,5,8
+025,Missouri,Caldwell,7,5,4
+085,Ohio,Lake,7,10,4
+095,Ohio,Lucas,0,4,0
+009,Rhode Island,Washington,3,9,5
+011,South Carolina,Barnwell,0,2,10
+013,South Carolina,Beaufort,10,1,9
+015,Nevada,Lander,3,7,3
+019,Nevada,Lyon,0,4,4
+029,Nevada,Storey,2,7,0
+111,Ohio,Monroe,8,8,7
+113,Ohio,Montgomery,6,3,1
+123,Ohio,Ottawa,6,9,0
+145,Ohio,Scioto,0,6,10
+155,Ohio,Trumbull,8,1,9
+103,Montana,Treasure,8,8,3
+105,Montana,Valley,6,3,9
+077,North Dakota,Richland,3,9,10
+085,North Dakota,Sioux,5,4,4
+099,North Dakota,Walsh,8,2,5
+105,North Dakota,Williams,5,8,8
+031,Missouri,Cape Girardeau,2,0,1
+037,Missouri,Cass,8,10,6
+047,New York,Kings,0,6,10
+053,New York,Madison,6,4,1
+061,New York,New York,10,2,8
+067,New York,Onondaga,10,5,1
+045,Oregon,Malheur,8,3,6
+055,Oregon,Sherman,0,5,1
+057,Oregon,Tillamook,7,5,7
+063,Oregon,Wallowa,3,0,5
+067,Oregon,Washington,10,10,3
+101,Missouri,Johnson,3,5,10
+107,Missouri,Lafayette,8,1,6
+113,Missouri,Lincoln,9,5,6
+123,Missouri,Madison,6,4,2
+127,Missouri,Marion,10,10,7
+163,Ohio,Vinton,5,7,2
+073,Tennessee,Hawkins,5,10,9
+079,Tennessee,Henry,9,6,6
+089,Tennessee,Jefferson,9,1,5
+091,Tennessee,Johnson,5,5,1
+097,Tennessee,Lauderdale,10,9,9
+103,Tennessee,Lincoln,6,9,7
+115,Tennessee,Marion,10,3,10
+121,Tennessee,Meigs,4,7,7
+123,Tennessee,Monroe,0,3,8
+131,Tennessee,Obion,3,3,9
+007,Ohio,Ashtabula,1,2,1
+371,Texas,Pecos,9,2,9
+377,Texas,Presidio,0,8,6
+391,Texas,Refugio,1,3,9
+401,Texas,Rusk,4,5,8
+407,Texas,San Jacinto,6,0,7
+409,Texas,San Patricio,10,5,5
+079,New York,Putnam,3,9,4
+443,Texas,Terrell,4,5,6
+461,Texas,Upton,10,3,1
+465,Texas,Val Verde,3,1,7
+473,Texas,Waller,4,5,10
+479,Texas,Webb,5,2,6
+487,Texas,Wilbarger,5,7,7
+495,Texas,Winkler,10,0,4
+501,Texas,Yoakum,7,2,0
+505,Texas,Zapata,8,1,7
+003,Utah,Box Elder,8,4,7
+005,Texas,Angelina,4,8,7
+007,Texas,Aransas,2,6,0
+037,Texas,Bowie,2,4,1
+043,Texas,Brewster,5,3,5
+183,Missouri,St. Charles,0,3,3
+189,Missouri,St. Louis,9,1,6
+199,Missouri,Scotland,3,4,9
+005,Maryland,Baltimore,5,0,5
+025,Maryland,Harford,3,4,4
+013,Michigan,Baraga,6,2,6
+029,Michigan,Charlevoix,6,9,4
+111,Montana,Yellowstone,3,8,1
+015,Nebraska,Boyd,7,10,9
+021,Nebraska,Burt,4,2,3
+121,Michigan,Muskegon,8,6,0
+127,Michigan,Oceana,0,0,7
+139,Michigan,Ottawa,6,4,9
+141,Michigan,Presque Isle,0,1,1
+151,Michigan,Sanilac,8,0,10
+153,Michigan,Schoolcraft,1,9,9
+019,South Carolina,Charleston,6,7,9
+071,South Dakota,Jackson,8,4,0
+081,South Dakota,Lawrence,9,4,5
+083,South Dakota,Lincoln,0,8,2
+089,South Dakota,McPherson,4,5,0
+099,South Dakota,Minnehaha,1,2,2
+105,South Dakota,Perkins,8,4,7
+109,South Dakota,Roberts,6,2,5
+001,New Hampshire,Belknap,4,4,8
+007,New Hampshire,Coos,7,0,6
+011,New Hampshire,Hillsborough,0,6,4
+013,New Hampshire,Merrimack,5,8,5
+001,New Jersey,Atlantic,6,8,3
+005,New Jersey,Burlington,7,8,6
+011,New Jersey,Cumberland,1,3,0
+031,Nebraska,Cherry,6,2,0
+043,Nebraska,Dakota,2,8,2
+049,Nebraska,Deuel,4,8,2
+055,Nebraska,Douglas,7,6,4
+061,Nebraska,Franklin,8,7,3
+067,Nebraska,Gage,0,6,1
+035,Ohio,Cuyahoga,1,3,10
+051,Ohio,Fulton,7,3,7
+053,Ohio,Gallia,0,8,5
+063,Missouri,DeKalb,7,7,1
+069,Missouri,Dunklin,7,7,0
+081,Missouri,Harrison,9,0,0
+089,Missouri,Howard,4,1,2
+091,Missouri,Howell,1,8,6
+015,North Carolina,Bertie,6,4,8
+023,North Carolina,Burke,10,4,7
+029,North Carolina,Camden,0,4,6
+031,North Carolina,Carteret,10,9,0
+133,Missouri,Mississippi,0,3,7
+143,Missouri,New Madrid,7,4,4
+149,Missouri,Oregon,9,5,10
+155,Missouri,Pemiscot,4,5,1
+165,Missouri,Platte,6,7,7
+101,North Carolina,Johnston,10,4,4
+107,North Carolina,Lenoir,1,6,9
+113,North Carolina,Macon,2,3,6
+119,North Carolina,Mecklenburg,10,10,0
+125,North Carolina,Moore,3,9,7
+001,Oklahoma,Adair,9,10,9
+007,Oklahoma,Beaver,6,1,8
+021,Oklahoma,Cherokee,5,5,5
+023,Oklahoma,Choctaw,2,8,7
+033,Oklahoma,Cotton,3,5,6
+041,Oklahoma,Delaware,2,8,8
+051,Oklahoma,Grady,6,9,0
+189,North Carolina,Watauga,0,8,8
+051,Texas,Burleson,5,9,10
+023,New Mexico,Hidalgo,0,6,0
+029,New Mexico,Luna,8,0,0
+031,New Mexico,McKinley,7,0,2
+035,New Mexico,Otero,2,1,7
+153,Tennessee,Sequatchie,2,9,0
+157,Tennessee,Shelby,9,7,6
+163,Tennessee,Sullivan,1,4,2
+171,Tennessee,Unicoi,0,1,1
+181,Tennessee,Wayne,4,5,1
+057,South Carolina,Lancaster,9,7,5
+085,New York,Richmond,10,1,0
+097,New York,Schuyler,6,10,8
+105,New York,Sullivan,4,0,7
+111,New York,Ulster,9,8,4
+115,New York,Washington,2,9,2
+119,New York,Westchester,6,5,8
+091,South Carolina,York,4,3,5
+009,South Dakota,Bon Homme,8,4,3
+013,South Dakota,Brown,10,5,9
+021,South Dakota,Campbell,6,4,10
+209,Missouri,Stone,9,1,5
+217,Missouri,Vernon,3,1,8
+227,Missouri,Worth,0,4,6
+001,Montana,Beaverhead,1,3,5
+171,North Carolina,Surry,7,0,7
+177,North Carolina,Tyrrell,6,9,8
+067,Ohio,Harrison,1,0,3
+073,Ohio,Hocking,5,3,3
+079,Ohio,Jackson,3,8,2
+057,Texas,Calhoun,10,7,7
+071,Texas,Chambers,9,7,3
+093,Texas,Comanche,4,9,7
+097,Texas,Cooke,5,9,8
+510,Maryland,Baltimore,4,3,4
+063,South Carolina,Lexington,4,7,1
+067,South Carolina,Marion,1,2,4
+077,South Carolina,Pickens,0,1,9
+053,Michigan,Gogebic,1,7,6
+027,South Dakota,Clay,5,0,1
+031,South Dakota,Corson,1,5,3
+047,South Dakota,Fall River,3,10,4
+053,South Dakota,Gregory,6,0,0
+007,Minnesota,Beltrami,8,6,4
+015,Minnesota,Brown,1,0,3
+021,Minnesota,Cass,2,4,8
+027,Minnesota,Clay,0,9,2
+123,South Dakota,Tripp,6,9,3
+135,South Dakota,Yankton,10,3,5
+011,Montana,Carter,2,9,4
+017,Montana,Custer,1,7,3
+025,Montana,Fallon,10,2,9
+027,Montana,Fergus,9,4,3
+033,Montana,Garfield,7,4,3
+039,Montana,Granite,3,8,6
+045,Montana,Judith Basin,7,9,3
+131,Nebraska,Otoe,6,7,0
+005,Massachusetts,Bristol,6,2,9
+009,Massachusetts,Essex,1,9,4
+019,Massachusetts,Nantucket,5,4,5
+023,New Jersey,Middlesex,1,1,0
+055,Michigan,Grand Traverse,9,8,10
+091,Nebraska,Hooker,2,4,2
+095,Nebraska,Jefferson,1,8,9
+103,Nebraska,Keya Paha,8,9,7
+111,Nebraska,Lincoln,10,8,0
+089,Mississippi,Madison,8,8,0
+093,Mississippi,Marshall,3,6,7
+031,Minnesota,Cook,5,7,7
+049,Minnesota,Goodhue,9,7,9
+055,Minnesota,Houston,7,5,9
+049,North Carolina,Craven,3,9,3
+051,North Carolina,Cumberland,9,10,2
+131,North Carolina,Northampton,6,5,0
+137,North Carolina,Pamlico,10,2,1
+149,North Carolina,Polk,10,7,1
+155,North Carolina,Robeson,3,10,5
+091,Pennsylvania,Montgomery,7,4,0
+097,Pennsylvania,Northumberland,9,6,3
+103,Pennsylvania,Pike,9,3,5
+025,New Jersey,Monmouth,2,4,10
+039,New Jersey,Union,2,3,7
+003,New Mexico,Catron,6,3,9
+005,New Mexico,Chaves,1,10,10
+009,New Mexico,Curry,6,9,2
+061,Montana,Mineral,8,3,1
+001,North Dakota,Adams,4,8,3
+011,Connecticut,New London,1,4,4
+001,Delaware,Kent,9,9,2
+003,Delaware,New Castle,0,7,8
+009,Florida,Brevard,7,9,6
+075,Florida,Levy,4,5,7
+031,Arkansas,Craighead,3,5,7
+035,Arkansas,Crittenden,2,2,1
+041,Arkansas,Desha,7,3,8
+057,Arkansas,Hempstead,3,0,7
+063,Arkansas,Independence,0,3,2
+069,Arkansas,Jefferson,4,6,4
+075,Arkansas,Lawrence,3,5,5
+077,Arkansas,Lee,1,2,6
+025,Arizona,Yavapai,1,0,3
+005,Arkansas,Baxter,1,8,0
+007,Arkansas,Benton,6,8,3
+073,Idaho,Owyhee,0,0,6
+085,Idaho,Valley,4,7,10
+087,Idaho,Washington,10,7,8
+013,Illinois,Calhoun,9,1,10
+021,Illinois,Christian,3,4,10
+027,Illinois,Clinton,8,6,3
+031,Idaho,Cassia,8,8,10
+035,Idaho,Clearwater,0,6,1
+037,Idaho,Custer,5,1,4
+049,Idaho,Idaho,9,5,0
+059,Idaho,Lemhi,3,2,3
+023,Indiana,Clinton,0,8,7
+282,Alaska,Yakutat,7,0,0
+021,Florida,Collier,8,2,2
+033,Florida,Escambia,2,4,10
+003,Hawaii,Honolulu,3,4,3
+007,Idaho,Bear Lake,9,1,5
+011,Idaho,Bingham,8,5,2
+013,Idaho,Blaine,1,5,5
+105,Arkansas,Perry,2,0,3
+107,Arkansas,Phillips,8,2,0
+119,Arkansas,Pulaski,9,4,6
+031,Illinois,Cook,4,7,7
+123,Indiana,Perry,6,10,3
+129,Indiana,Posey,0,2,4
+143,Indiana,Scott,8,10,6
+147,Indiana,Spencer,4,4,2
+155,Indiana,Switzerland,6,8,0
+163,Indiana,Vanderburgh,8,3,1
+029,Indiana,Dearborn,0,6,4
+037,Indiana,Dubois,4,10,4
+039,Indiana,Elkhart,2,1,10
+135,Georgia,Gwinnett,1,2,0
+145,Georgia,Harris,1,7,9
+151,Georgia,Henry,10,1,5
+161,Georgia,Jeff Davis,6,7,4
+167,Georgia,Johnson,2,8,5
+177,Georgia,Lee,10,6,2
+179,Georgia,Liberty,3,1,4
+107,Kansas,Linn,6,2,8
+117,Kansas,Marshall,1,0,10
+149,Illinois,Pike,0,2,2
+157,Illinois,Randolph,1,0,7
+161,Illinois,Rock Island,6,10,5
+171,Illinois,Scott,8,9,3
+173,Illinois,Shelby,9,4,6
+181,Illinois,Union,10,3,6
+185,Illinois,Wabash,10,0,7
+193,Illinois,White,4,8,2
+201,Illinois,Winnebago,7,1,6
+287,Georgia,Turner,6,6,8
+291,Georgia,Union,4,2,9
+299,Georgia,Ware,10,1,1
+105,Kentucky,Hickman,5,7,2
+273,Texas,Kleberg,8,2,2
+311,Texas,McMullen,7,0,0
+315,Texas,Marion,3,5,6
+321,Texas,Matagorda,1,2,6
+337,Texas,Montague,0,9,3
+047,West Virginia,McDowell,6,3,4
+057,West Virginia,Mineral,9,6,9
+063,West Virginia,Monroe,2,9,10
+071,West Virginia,Pendleton,3,10,8
+077,West Virginia,Preston,1,5,4
+059,Virginia,Fairfax,7,7,4
+071,Virginia,Giles,5,8,3
+077,Virginia,Grayson,2,2,2
+083,Virginia,Halifax,0,4,10
+089,Virginia,Henry,9,6,8
+093,Virginia,Isle of Wight,1,1,6
+099,Virginia,King George,5,7,2
+105,Virginia,Lee,1,5,8
+033,Kentucky,Caldwell,7,6,2
+305,Georgia,Wayne,8,4,1
+117,Virginia,Mecklenburg,1,6,10
+023,Unknown State,Cabo Rojo,6,6,4
+033,Unknown State,Cataño,9,2,2
+037,Unknown State,Ceiba,5,0,7
+047,Unknown State,Corozal,6,6,7
+049,Unknown State,Culebra,8,7,8
+057,Unknown State,Guayama,0,9,4
+065,Unknown State,Hatillo,0,2,2
+007,Washington,Chelan,2,9,1
+087,Unknown State,Loíza,9,3,7
+091,Unknown State,Manatí,8,6,1
+097,Unknown State,Mayagüez,0,0,7
+107,Unknown State,Orocovis,8,4,3
+113,Unknown State,Ponce,0,1,9
+121,Unknown State,Sabana Grande,2,2,1
+127,Unknown State,San Juan,3,4,9
+133,Unknown State,Santa Isabel,1,5,7
+141,Unknown State,Utuado,1,6,8
+117,Texas,Deaf Smith,6,7,7
+261,Texas,Kenedy,0,4,0
+135,Texas,Ector,0,4,6
+141,Texas,El Paso,4,8,2
+155,Texas,Foard,4,1,9
+161,Texas,Freestone,10,2,8
+165,Texas,Gaines,6,6,2
+107,Virginia,Loudoun,1,3,4
+131,Virginia,Northampton,6,1,3
+147,Virginia,Prince Edward,1,10,7
+149,Virginia,Prince George,9,8,3
+159,Virginia,Richmond,1,2,3
+161,Virginia,Roanoke,2,3,0
+165,Virginia,Rockingham,2,4,3
+175,Virginia,Southampton,4,3,2
+177,Virginia,Spotsylvania,9,4,3
+071,Unknown State,Isabela,7,3,4
+061,Wisconsin,Kewaunee,6,5,3
+039,Wyoming,Teton,5,4,1
+003,Unknown State,Aguada,2,0,4
+009,Unknown State,Aibonito,7,8,8
+015,Unknown State,Arroyo,9,0,3
+047,Washington,Okanogan,1,9,0
+129,Texas,Donley,7,3,4
+167,Texas,Galveston,6,2,3
+221,Texas,Hood,7,2,10
+225,Texas,Houston,8,7,4
+229,Texas,Hudspeth,4,0,8
+245,Texas,Jefferson,6,3,6
+257,Texas,Kaufman,2,6,9
+193,Virginia,Westmoreland,8,9,1
+199,Virginia,York,9,8,7
+031,Washington,Jefferson,7,1,0
+031,Wisconsin,Douglas,10,5,3
+051,Wisconsin,Iron,3,4,4
+049,Washington,Pacific,7,7,1
+570,Virginia,Colonial Heights,6,2,8
+630,Virginia,Fredericksburg,6,0,10
+650,Virginia,Hampton,9,9,5
+700,Virginia,Newport News,1,10,2
+735,Virginia,Poquoson,0,7,0
+770,Virginia,Roanoke,3,9,0
+071,Wisconsin,Manitowoc,4,10,4
+079,Wisconsin,Milwaukee,0,4,3
+089,Wisconsin,Ozaukee,9,6,5
+055,Washington,San Juan,2,7,3
+061,Washington,Snohomish,0,0,4
+071,Washington,Walla Walla,9,2,6
+073,Washington,Whatcom,1,6,4
+039,Louisiana,Evangeline,8,0,3
+139,Minnesota,Scott,5,1,5
+113,Nebraska,Logan,9,4,7
+043,North Carolina,Clay,10,9,0
+057,Ohio,Greene,8,1,10
+009,New York,Cattaraugus,6,1,8
+169,Tennessee,Trousdale,10,8,4
+073,South Dakota,Jerauld,7,4,5
+365,Texas,Panola,0,1,3
+207,Texas,Haskell,9,4,1
+690,Virginia,Martinsville,2,6,10
+131,Wisconsin,Washington,5,4,4
+067,West Virginia,Nicholas,3,9,1
+087,Virginia,Henrico,2,1,7
+043,Alabama,Cullman,7,2,4
+109,Alabama,Pike,0,4,4
+009,Connecticut,New Haven,10,9,7
+049,Arkansas,Fulton,2,3,0
+127,Arkansas,Scott,4,7,5
+117,Kentucky,Kenton,4,4,8
+123,Iowa,Mahaska,9,5,9
+015,Tennessee,Cannon,2,3,2
+011,North Dakota,Bowman,9,2,3
+083,North Dakota,Sheridan,3,4,3
+375,Texas,Potter,9,3,3
+065,Nebraska,Furnas,4,4,2
+135,Mississippi,Tallahatchie,2,4,10
+019,Oregon,Douglas,4,4,10
+013,Missouri,Bates,8,9,8
+001,Wisconsin,Adams,0,1,5
+057,Washington,Skagit,4,6,10
+085,California,Santa Clara,4,8,1
+017,Georgia,Ben Hill,8,10,5
+047,Indiana,Franklin,4,8,6
+123,Louisiana,West Carroll,10,8,5
+067,Michigan,Ionia,10,9,5
+185,North Carolina,Warren,7,10,5
+015,South Carolina,Berkeley,6,1,6
+045,Georgia,Carroll,4,8,10
+093,North Carolina,Hoke,1,7,6
+149,Kansas,Pottawatomie,1,6,10
+033,Mississippi,DeSoto,1,10,1
+001,Pennsylvania,Adams,2,7,10
+161,North Carolina,Rutherford,3,3,3
+051,Kentucky,Clay,0,1,5
+245,Georgia,Richmond,4,4,1
+251,Georgia,Screven,6,2,6
+261,Georgia,Sumter,9,5,8
+263,Georgia,Talbot,0,2,1
+273,Georgia,Terrell,2,5,10
+193,Kansas,Thomas,7,8,10
+199,Kansas,Wallace,3,6,5
+201,Kansas,Washington,9,6,5
+195,Kentucky,Pike,10,5,5
+211,Kentucky,Shelby,1,0,8
+213,Kentucky,Simpson,2,8,4
+223,Kentucky,Trimble,6,7,9
+225,Kentucky,Union,5,7,8
+037,Kansas,Crawford,9,8,7
+043,Kansas,Doniphan,5,0,2
+061,Kansas,Geary,8,8,0
+067,Kansas,Grant,8,2,7
+071,Kansas,Greeley,1,5,9
+083,Kansas,Hodgeman,10,7,4
+089,Kansas,Jewell,10,6,0
+019,Louisiana,Calcasieu,10,10,4
+027,Louisiana,Claiborne,4,5,0
+029,Louisiana,Concordia,7,8,7
+037,Louisiana,East Feliciana,10,0,2
+009,Washington,Clallam,0,0,9
+027,Washington,Grays Harbor,5,5,3
+105,Wisconsin,Rock,0,3,8
+117,Wisconsin,Sheboygan,0,6,3
+127,Wisconsin,Walworth,3,7,6
+009,Wisconsin,Brown,6,10,1
+047,Utah,Uintah,9,6,4
+053,Utah,Washington,1,7,4
+001,Vermont,Addison,1,7,3
+009,Vermont,Essex,8,3,8
+017,Vermont,Orange,0,8,6
+023,Vermont,Washington,3,5,3
+003,Louisiana,Allen,4,3,6
+009,Louisiana,Avoyelles,5,8,4
+101,Louisiana,St. Mary,1,9,2
+107,Louisiana,Tensas,5,3,3
+109,Louisiana,Terrebonne,4,1,10
+021,Kentucky,Boyle,5,1,2
+023,Kentucky,Bracken,9,9,8
+045,Louisiana,Iberia,1,10,2
+047,Kentucky,Christian,9,8,5
+055,Kentucky,Crittenden,0,9,2
+059,Kentucky,Daviess,8,2,7
+073,Kentucky,Franklin,2,2,6
+075,Kentucky,Fulton,1,8,7
+089,Kentucky,Greenup,8,6,0
+095,Kentucky,Harlan,10,8,4
+137,Wisconsin,Waushara,0,6,1
+001,Wyoming,Albany,1,6,0
+007,Wyoming,Carbon,5,7,9
+011,Wyoming,Crook,10,6,5
+013,Wyoming,Fremont,1,3,1
+021,Wyoming,Laramie,10,3,10
+031,West Virginia,Hardy,3,9,5
+035,West Virginia,Jackson,9,0,8
+041,West Virginia,Lewis,2,2,5
+027,Vermont,Windsor,10,7,0
+001,Virginia,Accomack,1,5,6
+021,Virginia,Bland,6,4,7
+027,Virginia,Buchanan,9,4,5
+037,Virginia,Charlotte,5,5,0
+041,Virginia,Chesterfield,9,7,10
