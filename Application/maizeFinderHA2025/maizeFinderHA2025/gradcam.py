@@ -94,7 +94,9 @@ class GradCAMExplainer:
         # Grad-CAM tracking
         self.gradients = None
         self.activations = None
-        
+
+        self.orginal_filename = os.path.join(self.original_dir, "image.png")
+        self.gradcam_filename = os.path.join(self.gradcam_dir, "grad.png")
         # Register hooks
         self.hook_layers()
         
@@ -211,12 +213,12 @@ class GradCAMExplainer:
         
         # Construct filenames
         original_filename = os.path.join(
-            self.original_dir, 
-            f'{save_prefix}_true_{true_label_name}_pred_{pred_label}.png'
+            "output", 
+            f'image.png'
         )
         gradcam_filename = os.path.join(
-            self.gradcam_dir, 
-            f'{save_prefix}_true_{true_label_name}_pred_{pred_label}_gradcam.png'
+            "output", 
+            f'gradcam.png'
         )
         
         # Save original image

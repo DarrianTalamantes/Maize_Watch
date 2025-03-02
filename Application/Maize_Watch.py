@@ -6,6 +6,7 @@ import plotly.express as px
 import requests
 import plotly
 import pandas as pd
+import time  # For delay if needed
 
 
 # Streamlit app title
@@ -17,20 +18,23 @@ st.markdown("""
     '>Please input Image and Other Information</h3>
 """, unsafe_allow_html=True)
 
-/home/darrian/Documents/Hatch_2025/Maize_Watch/Application/maizeFinderHA2025/maizeFinderHA2025/explanation_logs/20250301_192206/gradcam_images
-/home/darrian/Documents/Hatch_2025/Maize_Watch/Application/maizeFinderHA2025/maizeFinderHA2025/input/test
-
 # Upload image file
 uploaded_file = st.file_uploader("Input Image Here", type=["jpg", "jpeg", "png"])
 
 if uploaded_file is not None:
     # Save uploaded image temporarily
-    input_path = "/home/darrian/Documents/Hatch_2025/Maize_Watch/Application/maizeFinderHA2025/maizeFinderHA2025/input/test/temp_input.png"
-    output_path = "/home/darrian/Documents/Hatch_2025/Maize_Watch/Application/maizeFinderHA2025/maizeFinderHA2025/explanation_logs/20250301_192206/gradcam_images"
+    input_path = "temp_input.png"
     image = Image.open(uploaded_file)
     image.save(input_path)
+    output_path = "/home/darrian/Documents/Hatch_2025/Maize_Watch/Application/maizeFinderHA2025/maizeFinderHA2025/output/gradcam.png"
 
-    result = subprocess.run(["python", "process_image_practice.py", input_path, output_path], capture_output=True, text=True)
+
+    if st.button("Run Analysis"):
+        with st.spinner("Processing..."):
+            result = subprocess.run(
+                ["python3", "/home/darrian/Documents/Hatch_2025/Maize_Watch/Application/maizeFinderHA2025/maizeFinderHA2025/coolerForward.py", input_path], 
+                capture_output=True, text=True
+            )
 
     # Display the image
     st.markdown("## Original Image")
@@ -62,51 +66,58 @@ if uploaded_file is not None:
 
 st.markdown("----------------------")
 
-# Set the Mapbox access token (use your own Mapbox token here)
-plotly.express.set_mapbox_access_token("your-mapbox-access-token")
-
-# Load GeoJSON file for USA counties from an alternative source
-
-url = "https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json"
-response = requests.get(url)
-
-if response.status_code == 200:
-    counties_geojson = response.json()
-
-    # Load the CSV data containing county data
-    df = pd.read_csv('/DataBase/counties_data.csv')
-
-    # Calculate the sum of columns 3 and beyond for each row
-    df['sum_columns'] = df.iloc[:, 2:].sum(axis=1)
-
-    # Create a dictionary of county FIPS codes to sum of values
-    county_fips_to_sum = dict(zip(df['FIPS'], df['sum_columns']))
-
-    # Create a new color list based on the sum of values
-    color_values = [county_fips_to_sum.get(county['id'], 0) for county in counties_geojson['features']]
-
-    # Create the choropleth map
-    fig = px.choropleth_mapbox(
-        geojson=counties_geojson,
-        locations=[county['id'] for county in counties_geojson['features']],  # Use FIPS code as location
-        color=color_values,  # Color based on the sum of columns 3 and beyond
-        hover_name=[county['properties']['NAME'] for county in counties_geojson['features']],  # County name on hover
-        color_continuous_scale="Viridis",  # Choose a color scale
-        title="USA Counties Map",
-        mapbox_style="open-street-map",  # Map style
-        height=600,
-        width=800,
-        center={"lat": 37.0902, "lon": -95.7129},  # Latitude and longitude of the USA
-        zoom=3  # Set zoom level to focus on the USA
-    )
-
-    # Display the map in Streamlit
-    st.plotly_chart(fig)
-
-else:
-    print(f"Failed to retrieve data: {response.status_code}")
 
 
-    # Cleanup temp files
-    os.remove(input_path)
-    os.remove(output_path)
+
+
+
+
+
+# # Set the Mapbox access token (use your own Mapbox token here)
+# plotly.express.set_mapbox_access_token("your-mapbox-access-token")
+
+# # Load GeoJSON file for USA counties from an alternative source
+
+# url = "https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json"
+# response = requests.get(url)
+
+# if response.status_code == 200:
+#     counties_geojson = response.json()
+
+#     # Load the CSV data containing county data
+#     df = pd.read_csv('/home/darrian/Documents/Hatch_2025/DataBase/counties_data.csv')
+
+#     # Calculate the sum of columns 3 and beyond for each row
+#     df['sum_columns'] = df.iloc[:, 2:].sum(axis=1)
+
+#     # Create a dictionary of county FIPS codes to sum of values
+#     county_fips_to_sum = dict(zip(df['FIPS'], df['sum_columns']))
+
+#     # Create a new color list based on the sum of values
+#     color_values = [county_fips_to_sum.get(county['id'], 0) for county in counties_geojson['features']]
+
+#     # Create the choropleth map
+#     fig = px.choropleth_mapbox(
+#         geojson=counties_geojson,
+#         locations=[county['id'] for county in counties_geojson['features']],  # Use FIPS code as location
+#         color=color_values,  # Color based on the sum of columns 3 and beyond
+#         hover_name=[county['properties']['NAME'] for county in counties_geojson['features']],  # County name on hover
+#         color_continuous_scale="Viridis",  # Choose a color scale
+#         title="USA Counties Map",
+#         mapbox_style="open-street-map",  # Map style
+#         height=600,
+#         width=800,
+#         center={"lat": 37.0902, "lon": -95.7129},  # Latitude and longitude of the USA
+#         zoom=3  # Set zoom level to focus on the USA
+#     )
+
+#     # Display the map in Streamlit
+#     st.plotly_chart(fig)
+
+# else:
+#     print(f"Failed to retrieve data: {response.status_code}")
+
+
+#     # Cleanup temp files
+#     os.remove(input_path)
+#     os.remove(output_path)
