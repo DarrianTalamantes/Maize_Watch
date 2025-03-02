@@ -8,8 +8,8 @@ import numpy as np
 import pandas as pd
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score, precision_score, recall_score, f1_score
 import os
-import splitfolders
-from tqdm import tqdm
+#import splitfolders
+#from tqdm import tqdm
 import time
 import logging
 from attention import ECA_SA_ResNeXtModel
@@ -23,8 +23,15 @@ inputpath=sys.argv[1]
 
 model = ECA_SA_ResNeXtModel(num_classes=4)
 
-model.load_state_dict(torch.load("resnext_model.pth"))
+# model.load_state_dict(torch.load("resnext_model.pth"), map_location=device)
 
+
+
+checkpoint = torch.load("resnext_model.pth", map_location = device)
+
+#model.load_state_dict(modelCheckpoint)
+
+model.load_state_dict(checkpoint)
 # Define transforms
 train_transform = transforms.Compose([
     transforms.Resize(size=(256, 256)),
